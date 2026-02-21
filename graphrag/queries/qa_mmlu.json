@@ -1,0 +1,598 @@
+[
+    {
+        "query": "Endurance training increases the muscle's capacity to:\nA: contract faster.\nB: break down phosphocreatine.\nC: burn fat and carbohydrate.\nD: generate energy anaerobically.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 2
+    },
+    {
+        "query": "Which of the following molecules does not form part of DNA?\nA: Purine\nB: Pyrimidine\nC: Deoxyribose\nD: Amino acid\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "A scientist using mouse models to determine the response of blood hormones to large levels of glucose in the body discovers a new hormone not previously described. According to his data, this hormone is found both inside and out of cells when carrying out its function, increase the amount of nucleic acid in the cell while functioning, and are derived from a structure containing four hydroxycarbon rings. This will likely be categorized as which type of hormone?\nA: Enzymatic\nB: Steroid\nC: Peptide\nD: Amino acid\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 1
+    },
+    {
+        "query": "Positional cloning refers to\nA: using a selection procedure to clone a cDNA\nB: cloning a portion of a gene using PCR\nC: isolating a gene by PCR using primers from another species\nD: mapping a gene to a chromosomal region and then identifying and cloning a genomic copy of the gene from the region\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "Basepair sequence that signals the start site for gene transcription.\nA: Enhancer\nB: Repressor\nC: Operator\nD: Promoter\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "A healthy 22-year-old man participates in a study of glucose metabolism. At the beginning of the study, his serum glucose concentration is within the reference range. He consumes an 800-calorie meal consisting of protein, fat, and carbohydrates. He then sleeps through the night without additional food or drink. Twelve hours later, his serum glucose concentration remains within the reference range. Which of the following mechanisms is most likely involved in maintaining this man's serum glucose concentration?\nA: Continued gut absorption of calories from the ingested meal\nB: Glucose release from skeletal muscle\nC: Glycogenolysis in the liver\nD: Increased leptin release from adipose tissues\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 2
+    },
+    {
+        "query": "A 12-year-old boy with sickle cell disease and type 1 diabetes mellitus is brought to the office by his mother for an initial visit. The family recently moved to the area. Type 1 diabetes mellitus was diagnosed in the patient 6 years ago. Since that time, he has been treated with insulin and dietary management. His insulin regimen has not changed during the past year; however, his mother says he has been only marginally compliant with his insulin and dietary regimens. His diabetic diary shows home fingerstick blood glucose concentrations ranging from 140–200 mg/dL during the past 3 months. He admits to checking his glucose concentrations infrequently. Measurement of hemoglobin A1c obtained last week was 5.4%. The patient's vital signs are temperature 36.8°C (98.2°F), pulse 72/min, respirations 24/min, and blood pressure 110/64 mm Hg. Physical examination shows no abnormalities. Which of the following is the most likely explanation for the discrepancy between the patient's home fingerstick blood glucose concentrations and his hemoglobin A1c?\nA: His daily glucose control is better than recorded\nB: His glucometer is reading falsely high and should be replaced\nC: His hemoglobin A1c is likely a result of laboratory error and should be repeated\nD: His sickle cell disease is affecting his hemoglobin A1c\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "The pathogenesis of hyperglycemia in type 2 diabetes includes all the following mechanisms except for:\n\nA: Increased glucose production by the liver\nB: Impaired insulin secretion\nC: Decreased glucose uptake from the skeletal muscle\nD: All of the options given are correct\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "Hydrogen ions are formed when:\nA: glycogen becomes depleted.\nB: phosphocreatine breakdown occurs.\nC: pyruvate is converted to lactate.\nD: glycolysis is being used as a major means of resynthesising ATP.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "Which of the following statements is correct?\n\nA: The flavonoid class comprises flavonoids and isoflavonoids.\nB: The digestibility and bioavailability of isoflavones in soya food products are not changed by processing.\nC: ß-Carotene and lycopene can both act as provitamin A.\nD: Carotenoids and flavonoids both belong to the polyphenol class.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "This process leads to the net production of two pyruvate, two ATP, and two NADH.\nA: Glycolysis\nB: Chemiosmosis\nC: Fermentation\nD: Calvin cycle\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "One of the many reasons that the eukaryotic cell can possess so much information in its DNA is the ability to condense coding regions when they are not being expressed. When acting on DNA, which of the following processes will usually lead to a decrease in gene expression?\nA: Increased histone acetyltransferase activity\nB: Decrease in histone deacetyltransferase activity\nC: Increase in methylation activity\nD: Increase in heterochromatin:euchromatin ratio\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 2
+    },
+    {
+        "query": "Which fatty acids found in plasma phospholipids are associated with reduced cardiovascular mortality?\n\nA: Palmitic acid (16:0)\nB: Long chain (=20 carbons) saturated and n-3 polyunsaturated fatty acids\nC: á-linolenic acid (18:3)\nD: Stearic acid (18:0)\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 1
+    },
+    {
+        "query": "Which statement best describes the differences between the characteristics of type 1 and type 2 diabetes:\n\nA: persons with type 2 diabetes usually require lower doses of insulin than person with type 1 diabetes because they have a milder form of diabetes\nB: persons with type 1 diabetes rapidly develop chronic complications\nC: autoimmune factors are involved in the pathogenesis of type 1 but not type 2 diabetes\nD: persons with type 1 diabetes can increase endogenous insulin production by taking oral hypoglycemic agents\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 2
+    },
+    {
+        "query": "Nature is more important for ______ differences, while nurture has greater influence on ______ differences.\nA: structural and anatomical; psychological and social\nB: psychological and social; structural and anatomical\nC: structural and psychological; anatomical and social\nD: social and anatomical; psychological and structural\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "A blood sample is taken from a 45 year old man after he has broken his overnight fast by eating three slices of toast and a boiled egg. Which one of the following will be at a higher concentration than if the blood sample had been taken before breakfast?\n\nA: Alanine\nB: Glucose\nC: Ketone bodies\nD: Non-esterified (free) fatty acids\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 1
+    },
+    {
+        "query": "Which of the following is an accessory organ of the gastrointestinal system that is responsible for secreting insulin?\nA: Adrenal gland\nB: Gallbladder\nC: Liver\nD: Pancreas\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "A 76-year-old man comes to the office because of early awakening at night. He has no difficulty falling asleep but routinely wakes up between 2:00 and 3:00 AM. The patient is a retired postal worker, and he has always been physically active. He has diabetes mellitus controlled by diet. The patient drinks one cup of coffee in the morning with breakfast and usually walks for exercise in the morning. Before retiring at night he has one alcoholic beverage. He has no history of depression, nightmares, or snoring and he takes no over-the-counter medications. His wife of 45 years is also in good health. Vital signs are temperature 37.1°C (98.8°F), pulse 96/min and regular, respirations 18/min, and blood pressure 135/90 mm Hg. Physical examination shows a well-nourished, well-developed man. He is not obese. Examination of the head and neck is normal; there are no bruits or jugular venous distention. Chest is clear, and heart is normal with S1 and S2. Abdomen is soft and nontender with active bowel sounds and no organomegaly. Rectal examination discloses no abnormalities. Which of the following is the most appropriate management of this patient's insomnia?\nA: Advise the patient to discontinue his bedtime drink of alcohol\nB: Advise the patient to read and snack in bed to relax\nC: Prescribe a vigorous pre-bedtime exercise regimen\nD: Prescribe sertraline\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "Which of the following describes the cluster of blood capillaries found in each nephron in the kidney?\nA: Afferent arteriole\nB: Glomerulus\nC: Loop of Henle\nD: Renal pelvis\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 1
+    },
+    {
+        "query": "A 24-year-old woman comes to the physician for a follow-up examination. One week ago, she was treated in the emergency department after she accidentally spilled hot grease on her left leg while working at a fast-food restaurant. Examination of the left lower extremity shows a 7-cm, pink, soft, granular, edematous wound. The formation of this tissue was most likely caused by increased activity of which of the following?\nA: Glycosylation-dependent cell adhesion molecule-1\nB: P-selectin\nC: Stromelysin\nD: Vascular endothelial growth factor\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "The gut microbes metabolize L-carnitine into which metabolite that has been shown increase cardiovascular disease?\n\nA: choline\nB: betaine\nC: Trimethylamine\nD: All of the above\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 2
+    },
+    {
+        "query": "A 34-year-old woman comes to the office because of a 3- to 4-week history of swelling of her legs and a 9-kg (20-lb) weight gain. Medical history is significant for sickle cell trait and mild anemia. She has been taking 800 mg of ibuprofen three times daily for Achilles tendinitis diagnosed 1 month ago. She has smoked five cigarettes daily for the past 15 years, and she drinks one to five beers on weekends. She experimented with cocaine briefly 16 years ago, but she has never used intravenous drugs. She has been in a monogamous sexual relationship for the past 12 years. Today, vital signs are temperature 37.2°C (99.0°F), pulse 88/min, respirations 16/min, and blood pressure 145/95 mm Hg. Physical examination discloses periorbital edema but no jugular venous distention. Lungs are clear to auscultation. Cardiac examination discloses an S1 and S2 without murmurs or gallops. Abdominal examination discloses bulging flanks and shifting dullness to percussion. Examination of the lower extremities shows pitting edema from the mid thigh to the ankles bilaterally. Results of which of the following studies are most likely to be abnormal in this patient?\nA: HIV antibody study\nB: Serum B-type natriuretic peptide concentration\nC: Toxicology screening of the urine\nD: Urine protein concentration\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "Kinase reactions:\nA: inhibit ATP breakdown.\nB: involve the addition or removal of a phosphate group.\nC: involve the addition or removal of a ketone group.\nD: involve the addition or removal of an amino acid to a polypeptide chain.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 1
+    },
+    {
+        "query": "How can several different proteins be produced from the same gene?\nA: By selective transcription of different parts of the DNA in the gene.\nB: By doubling or tripling the length of the mRNA molecule produced from the primary transcript.\nC: The primary transcripts of many genes can be spliced in various ways to produce different mRNAs, a process known as alternative RNA splicing.\nD: By splicing of the mRNA molecule after it has been formed from the primary transcript.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 2
+    },
+    {
+        "query": "De novo fatty acid synthesis usually signifies which of the following?\n\nA: An excess of fat intake\nB: A depletion of energy yielding substrates\nC: Only occurs with prolonged fasting\nD: An excess of energy yielding substrates\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "Which of the following statements about glycogen metabolism is correct?\n\nA: A key step in the synthesis of glycogen is the formation of UDP-glucose\nB: In muscle in the fasting state, glycogen is broken down to glucose 6-phosphate, then free glucose.\nC: Glycogen is stored mainly in the liver and brain.\nD: Glucagon increases the synthesis of glycogen\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "What is the typical body composition of a normal weight young adult man?\n\nA: Fat = 17%, Fat Free Mass=83%, Intracellular Fluid= 40%, Extracellular Fluid= 20%\nB: Fat = 83%, Fat Free Mass=40%, Intracellular Fluid= 17%, Extracellular Fluid= 20%\nC: Fat = 20%, Fat Free Mass=17%, Intracellular Fluid= 40%, Extracellular Fluid= 83%\nD: Fat = 40%, Fat Free Mass=20%, Intracellular Fluid= 17%, Extracellular Fluid= 83%\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "What are focus areas of nutritional epidemiology?\n\nA: The role of nutritional factors in causing disease in a population.\nB: How changes in food intake in the population can promote good health.\nC: Both of the options given are correct.\nD: None of the options given is correct.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 2
+    },
+    {
+        "query": "A study is conducted to assess the relationship between race and end-stage renal disease pathologists independently study specimens from 1,000 kidney biopsies. The first group of pathologists is aware of the race of the patient from whom the biopsy came, while the second group is blinded as to the patient’s race. The first group reports ‘hypertensive nephropathy’ much more frequently for black patients than the second group. Which of the following types of bias is most likely present in this study?\nA: Confounding\nB: Nonresponse bias\nC: Recall bias\nD: Referral bias\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "A 29-year-old Hispanic woman, gravida 3, para 3, comes to the office because of recurrent low back pain during the past year. Rest and analgesics usually eradicate the pain within 2 weeks. However, the pain seems to recur every 2 to 3 months. Medical history is remarkable for gestational diabetes mellitus during her pregnancies. She takes no medications except for an oral contraceptive. She walks 3 miles daily for exercise and works as a sales representative for a computer software company. She is 165 cm (5 ft 5 in) tall and weighs 100 kg (220 lb); BMI is 37 kg/m2 . Vital signs are normal, and physical examination discloses no abnormalities. Which of the following is the most appropriate next step?\nA: Administer an epidural injection of methylprednisolone\nB: Order MRI of the lumbosacral spine\nC: Order x-rays of the lumbosacral spine\nD: Recommend beginning a weight loss program\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "What is the definition of overweight?\n\nA: BMI > 25 kg/m2\nB: BMI = 25 kg/m2\nC: BMI 25-29.9 kg/m2\nD: BMI 25-30 kg/m2\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 2
+    },
+    {
+        "query": "The genome is:\nA: the number of chromosomes found in the somatic cells of an organism.\nB: the entire DNA sequence of an organism.\nC: the entire list of proteins that an organism is capable of producing.\nD: the DNA sequence of an entire chromosome.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 1
+    },
+    {
+        "query": "The rate limiting enzyme of glycolysis is:\nA: phosphorylase.\nB: hexokinase.\nC: pyruvate dehydrogenase.\nD: phosphofructokinase.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "Which of the following cells is most closely associated with phagocytosis?\nA: Neutrophils\nB: Plasma cells\nC: B cells\nD: Memory cells\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "Your patient has diabetes. Why is this important?\nA: These patients are more likely to bleed.\nB: These patients are more likely to get urinary tract infections if their blood sugar is unstable.\nC: These patients are more likely to have clear urine.\nD: These patients are less likely to have catheter encrustation.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 1
+    },
+    {
+        "query": "A 27-year-old nurse comes to the emergency department because of nervousness, dizziness, palpitations, and excess perspiration for the past 3 hours. She has had similar episodes over the past 6 months. The symptoms improve following ingestion of orange juice or soft drinks. She says that she has had a great deal of stress. She has been drinking two alcoholic beverages daily for the past month; before this time, she seldom drank alcohol. Examination shows no abnormalities. Her serum glucose concentration is 30 mg/dL. Intravenous glucose is administered, and the patient's symptoms improve. Which of the following is the most appropriate next step in diagnosis?\nA: Measurement of serum proinsulin and insulin antibodies\nB: Measurement of serum cortisol and ACTH concentrations\nC: Measurement of serum growth hormone and plasma somatomedin-C concentrations\nD: Measurement of serum insulin and C-peptide concentrations\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "Which of the following promotes glucose and amino acid uptake by muscle?\nA: Adrenaline\nB: Insulin\nC: Glycogen\nD: Cortisol\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 1
+    },
+    {
+        "query": "Which of the following can act as an intracellular buffer to limit pH changes when the rate of glycolysis is high?\nA: Glutamine\nB: Glucose\nC: Carnosine\nD: Amylase\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 2
+    },
+    {
+        "query": "Glycogen breakdown in exercising muscle is activated by:\nA: insulin.\nB: cortisol.\nC: increased pH.\nD: none of the above.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "Glycogen breakdown in muscle initially results in the formation of:\nA: glucose.\nB: glucose-1-phosphate.\nC: glucose-6-phosphate.\nD: glucose-1,6-diphosphate.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 1
+    },
+    {
+        "query": "Which of the following statements is/are true? Epigenetic changes may be key to understanding the links between early experience and later health. They may:\n\nA: include changes in DNA methylation\nB: modify gene expression without changing the underlying DNA sequence\nC: enable one genotype to result in different phenotypes\nD: all of the options given are correct\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "According to trials on diabetes prevention, high-risk individuals can reduce their risk to develop diabetes by doing the following:\n\nA: Eating a very low carbohydrate diet\nB: Consuming a diet high in monounsaturated fats\nC: Losing 5-7% of body weight through a hypocaloric low fat diet and 30 minutes of daily activity\nD: Initiating metformin 850 mg BID and practicing daily vigorous exercise\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 2
+    },
+    {
+        "query": "It is possible to reduce (though not eliminate) information bias in assessment of dietary intake by\n\nA: gathering information about many different aspects of people's dietary habits.\nB: collecting data about dietary intake at the onset of a study, before people have experienced symptoms of disease.\nC: collecting data on all possible confounders.\nD: making sure that the study sample is representative of the population.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 1
+    },
+    {
+        "query": "As part of the Women’s Health Study, researchers investigated the role of systemic inflammation in predicting cardiovascular disease in women (N Engl J Med. 2002;347[20]:1557-1565). Researchers used a prospective study design with a large sample size. Blood levels of C-reactive protein (CRP) were measured at baseline and women were followed for an average of 8 years. The following table shows the relative risk estimates of cardiovascular event (heart attack or stroke) within 5 years by quintile of CRP level for the 30,000 women. The first quintile is used as the reference category.  1 0.49 mg/dL Relative Risk Number of women  1.0 6000  2 >0.49-1.08 mg/dL 1.8 6000  Quintile of CRP Level 3 >1.08-2.09 mg/dL 2.3 6000  4 >2.09-4.19 mg/dL 3.2 6000  5 >4.19 mg/dL 4.5 6000  Based on the relative risk data above, one can conclude:\nA: There is no risk of heart attack/stroke for women with CRP levels in the first quintile.\nB: Decreasing CRP level appears to increase the risk of heart attack/stroke.\nC: Increasing CRP level appears to increase the risk of heart attack/stroke.\nD: There appears to be no association between CRP levels and heart attack/stroke.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "Which of the following diseases does obesity increase the risk of developing?\n\nA: Type 2 diabetes\nB: Cancer\nC: Cardiovascular disease\nD: All of the options given are correct\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "Which statement about dietary fibre is most correct?\n\nA: The end products of it fermentation is mainly malic, succinic and propionic acids\nB: Fermentation studies in vitro, with human faeces, have shown that soluble and insoluble forms are fermented completely within 24 hours\nC: Fibre sources, such as hemicelluloses, pectins and inulin are rapidly fermented to short chain fatty acids, which have trophic effects on the colon\nD: Stool bulking occurs mainly through the action of insoluble fibres such as cellulose\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 2
+    },
+    {
+        "query": "Which of the following are the recommended blood pressure and lipid goals for the prevention of cardiovascular disease in adults with diabetes?\n\nA: BP < 140/90, Trig <150, LDL < 100\nB: BP < 130/85, Trig < 300, LDL < 100\nC: BP < 135/80, Trig < 200, LDL < 130\nD: BP < 130/80, Trig <150, LDL < 100\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "What enzyme is responsible for copying methylation marks from the parental to the daughter strand of DNA during replication?\n\nA: DNMT1\nB: DNMT3a\nC: DNMT3b\nD: DNMT3L\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "All of the following statements are true EXCEPT\nA: thyroxine increases the rate of metabolism\nB: insulin decreases storage of glycogen\nC: vasopressin stimulates water reabsorption in the kidney\nD: epinephrine increases blood sugar levels and heart rate\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 1
+    },
+    {
+        "query": "Glucose is transported into the muscle cell:\nA: via protein transporters called GLUT4.\nB: only in the presence of insulin.\nC: via hexokinase.\nD: via monocarbylic acid transporters.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "Kinase reactions:\nA: inhibit ATP breakdown.\nB: involve the addition or removal of a phosphate group.\nC: involve the addition or removal of a ketone group.\nD: involve the addition or removal of an amino acid to a polypeptide chain.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 1
+    },
+    {
+        "query": "A 78-year-old woman is admitted to the hospital for replacement of her left knee joint due to degenerative joint disease. She has type 2 diabetes mellitus, a long history of hypertension, and chronic renal failure presumed secondary to diabetes mellitus and hypertension. Reversible causes of renal failure have been excluded. She underwent a tonsillectomy at age 9 years and a laparoscopic cholecystectomy at age 68 years. Serum creatinine concentration on admission was 6.0 mg/dL. Her current therapy includes a low-sodium, low-protein American Diabetes Association (ADA) diet, enalapril, and acetaminophen. She is a retired seamstress. She and her husband live on a farm 90 miles from the nearest dialysis facility. In considering longterm treatment options for this patient, which of the following is the most appropriate factor to consider?\nA: Her eligibility to receive Medicare\nB: Her history of an abdominal operation\nC: Her history of arthritis\nD: Her suitability for home dialysis\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "After consumption of a mixed meal, a complex cascade of events takes place that integrates fat metabolism at the whole body level. Which of the following is correct?\n\nA: Consumption of a meal leads to suppression of lipase activity within adipose tissue leading to a decrease in plasma NEFA concentrations\nB: Adipose tissue lipoprotein lipase is activated by insulin and therefore is most active following meal consumption\nC: During the postprandial period the VLDL synthesis pathway is suppressed in favour of hydrolysis of chylomicrons\nD: All options given are correct\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "Which of the following statements about glucose metabolism is correct?\n\nA: All of the reactions of glycolysis are freely reversible for gluconeogenesis.\nB: Fructose cannot be used for gluconeogenesis in the liver.\nC: Red blood cells can catalyse aerobic glycolysis because they contain oxygen bound to haemoglobin.\nD: Red blood cells can only metabolise glucose by anaerobic glycolysis and the pentose phosphate pathway.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "In adolescence:\n\nA: Brain growth is faster than at any other stage in life\nB: Peak bone mass occurs before the growth spurt ends\nC: Girls physiologically increase their percentage body fat\nD: Type 2 obesity related diabetes remains a very rare problem\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 2
+    },
+    {
+        "query": "Loss of somatic sensation over the anterior two-thirds of the tongue indicates damage to the\nA: lingual branch of the mandibular trigeminal nerve.\nB: chorda tympani branch of the facial nerve.\nC: lingual branch of the glossopharyngeal nerve.\nD: hypoglossal nerve.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "A 62-year-old man comes to the physician because of a 2-month history of progressive fatigue and ankle swelling. He had an anterior myocardial infarction 3 years ago and has had shortness of breath with mild exertion since then. Current medications include labetalol and daily aspirin. He has smoked one-half pack of cigarettes daily for 30 years. His pulse is 100/min and regular, respirations are 20/min, and blood pressure is 130/75 mm Hg. There are jugular venous pulsations 5 cm above the sternal angle. Crackles are heard at both lung bases. Cardiac examination shows an S3 gallop. There is edema from the midtibia to the ankle bilaterally. Further evaluation of this patient is most likely to show which of the following findings?\nA: Decreased pulmonary capillary wedge pressure\nB: Impaired contractility of the left ventricle\nC: Prolapse of the mitral valve\nD: Thrombosis of the superior vena cava\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 1
+    },
+    {
+        "query": "The synthesis of glucose from lactate, glycerol, or amino acids is called:\nA: glycogenolysis.\nB: glycolysis.\nC: lipolysis.\nD: gluconeogenesis.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "What is a major limitation of using BMI (body mass index) as a method of body fat measurements?\n\nA: It is not an accurate measure for average people\nB: It is more accurate than height-weight tables\nC: It does not distinguish between fat and fat free mass\nD: All of the above\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 2
+    },
+    {
+        "query": "Glycolysis is the name given to the pathway involving the conversion of:\nA: glycogen to glucose-1-phosphate.\nB: glycogen or glucose to fructose.\nC: glycogen or glucose to pyruvate or lactate.\nD: glycogen or glucose to pyruvate or acetyl CoA.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 2
+    },
+    {
+        "query": "The most direct method for measuring body composition is:\n\nA: underwater weighing\nB: Skinfold test\nC: Body mass index\nD: weight\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "A wrestler attempting to lose weight for a match in December commits himself to dropping 30lbs over 2 months. Which of the following is NOT a good method to restrict his caloric intake?\nA: Study at a health smoothie store instead of a coffee shop.\nB: Reward himself with a savory meal every Saturday for meeting his calorie goals.\nC: Snap himself with a rubber band when he eats a high calorie snack.\nD: Hide snack food out of sight within his house.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "A 72-year-old woman comes to the physician because of a 2-month history of painless swelling of both ankles. She also reports shortness of breath with exertion and when lying down. She has been awakened from sleep by shortness of breath. She has not had chest pain. Her pulse is 96/min and regular, respirations are 24/min, and blood pressure is 128/76 mm Hg. Jugular venous pressure is 15 cm H2O. Pulmonary examination shows crackles at both lung bases. Cardiac examination shows a regular rhythm and a soft S3. A grade 3/6 holosystolic murmur is heard best at the apex, radiating to the axilla. There is 2+ pitting edema of the lower legs and ankles. Which of the following is most likely to confirm the diagnosis?\nA: Measurement of serum troponin I concentration\nB: ECG\nC: Exercise stress test\nD: Echocardiography\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "Results of surveillance should be distributed to:\nA: Decision makers\nB: The public\nC: The data collectors\nD: All of the above\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "Additional dietary protein may:\n\nA: Increase risk of hip fracture\nB: Decrease calcium excretion in the urine\nC: Stimulate production of insulin-like growth hormone\nD: Reduce muscle mass and strength\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 2
+    },
+    {
+        "query": "The rate of blood lactate accumulation is determined by:\nA: the rate of muscle lactate production and the rate of muscle lactate efflux.\nB: the rate of anaerobic glycolysis.\nC: the rate of muscle glucose uptake.\nD: the difference between the rate of lactate appearance and the rate of lactate clearance.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "What type of diet is recommended for weight maintenance?\n\nA: Low protein and low GI\nB: High protein and high GI\nC: Low protein and high GI\nD: High protein and low GI\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "Metabolism is determined by the:\nA: size of proteins in the cell.\nB: availability of amino acids.\nC: proteins formed as dictated by the genetic material.\nD: amino acid composition of the ribonucleic acids.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 2
+    },
+    {
+        "query": "Apoptosis, which is programmed cell death, is a necessary process in living organisms. Which of the following is NOT correct about apoptosis?\nA: It occurs randomly.\nB: A particular cell dies when it is no longer needed by the organism.\nC: A cell carries out apoptosis when too many mutations have accumulated.\nD: Plant cells carry out apoptosis as a defense measure in cells that have been infected by parasites.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "Sauna use, sometimes referred to as \"sauna bathing,\" is characterized by short-term passive exposure to extreme heat. This exposure elicits mild hyperthermia – an increase in the body's core temperature – that induces a thermoregulatory response involving neuroendocrine, cardiovascular, and cytoprotective mechanisms that work together to restore homeostasis and condition the body for future heat stressors… In recent decades, sauna bathing has emerged as a means to increase lifespan and improve overall health, based on compelling data from observational, interventional, and mechanistic studies. Of particular interest are the findings from studies of participants in the Kuopio Ischemic Heart Disease Risk Factor (KIHD) Study, an ongoing prospective population-based cohort study of health outcomes in more than 2,300 middle-aged men from eastern Finland, which identified strong links between sauna use and reduced death and disease… The KIHD findings showed that men who used the sauna two to three times per week were 27 percent less likely to die from cardiovascular-related causes than men who didn't use the sauna.[2] Furthermore, the benefits they experienced were found to be dose-dependent: Men who used the sauna roughly twice as often, about four to seven times per week, experienced roughly twice the benefits – and were 50 percent less likely to die from cardiovascular-related causes.[2] In addition, frequent sauna users were found to be 40 percent less likely to die from all causes of premature death. These findings held true even when considering age, activity levels, and lifestyle factors that might have influenced the men's health.[2]... The KIHD also revealed that frequent sauna use reduced the risk of developing dementia and Alzheimer's disease in a dose-dependent manner. Men who used the sauna two to three times per week had a 66 percent lower risk of developing dementia and a 65 percent lower risk of developing Alzheimer's disease, compared to men who used the sauna only one time per week… The health benefits associated with sauna use extended to other aspects of mental health, as well. Men participating in the KIHD study who used the sauna four to seven times per week were 77 percent less likely to develop psychotic disorders, regardless of the men's dietary habits, socioeconomic status, physical activity, and inflammatory status (as measured by C-reactive protein)…Exposure to high temperature stresses the body, eliciting a rapid, robust response. The skin and core body temperatures increase markedly, and sweating ensues. The skin heats first, rising to 40°C (104°F), and then changes in core body temperature occur, rising slowly from 37°C (98.6°F, or normal) to 38°C (100.4°F) and then rapidly increasing to 39°C (102.2°F)…  Cardiac output, a measure of the amount of work the heart performs in response to the body's need for oxygen, increases by 60 to 70 percent, while the heart rate (the number of beats per minute) increases and the stroke volume (the amount of blood pumped) remains unchanged.[5] During this time, approximately 50 to 70 percent of the body's blood flow is redistributed from the core to the skin to facilitate sweating. The average person loses approximately 0.5 kg of sweat while sauna bathing.[11] Acute heat exposure also induces a transient increase in overall plasma volume to mitigate the decrease in core blood volume. This increase in plasma volume not only provides a reserve source of fluid for sweating, but it also acts like the water in a car's radiator, cooling the body to prevent rapid increases in core body temperature and promoting heat tolerance… Repeated sauna use acclimates the body to heat and optimizes the body's response to future exposures, likely due to a biological phenomenon known as hormesis, a compensatory defense response following exposure to a mild stressor that is disproportionate to the magnitude of the stressor. Hormesis triggers a vast array of protective mechanisms that not only repair cell damage but also provide protection from subsequent exposures to more devastating stressors… The physiological responses to sauna use are remarkably similar to those experienced during moderate- to vigorous-intensity exercise. In fact, sauna use has been proposed as an alternative to exercise for people who are unable to engage in physical activity due to chronic disease or physical limitations.[13]\n\nThe review article sources a lot of data from Finland population studies, where the incidence of sauna use is substantially higher than most countries. Using the data, which of the following is something that is more plausible in Finland than elsewhere?\nA: More gold medals in adolescent skiing.\nB: An 86-year old male mayor who is revered in the community.\nC: Increased rate of pets in the household.\nD: Improved marriage satisfaction rates.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 1
+    },
+    {
+        "query": "The blood glucose concentration during 80-90 minutes of intermittent high intensity exercise:\nA: frequently rises by 1 - 3 mM.\nB: remains relatively unchanged.\nC: frequently falls by 1 - 3 mM.\nD: falls to hypoglycaemic levels.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "Endurance training increases the muscle's capacity to:\nA: contract faster.\nB: break down phosphocreatine.\nC: burn fat and carbohydrate.\nD: generate energy anaerobically.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 2
+    },
+    {
+        "query": "The β-oxidation of a molecule of palmitic acid, CH3(CH2)14CO2H:\nA: yields 8 molecules of acetyl-CoA and some ATP and water.\nB: yields 16 molecules of acetyl-CoA only.\nC: yields carbon dioxide and water only.\nD: does not involve oxygen.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "What is the phenotype of a congenital disorder impairing the secretion of leptin?\n\nA: Normal energy intake, normal body weight and hyperthyroidism\nB: Obesity, excess energy intake, normal growth and hypoinsulinaemia\nC: Obesity, abnormal growth, hypothyroidism, hyperinsulinaemia\nD: Underweight, abnormal growth, hypothyroidism, hyperinsulinaemia\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 2
+    },
+    {
+        "query": "Which of the following promotes glucose and amino acid uptake by muscle?\nA: Adrenaline\nB: Insulin\nC: Glycogen\nD: Cortisol\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 1
+    },
+    {
+        "query": "The pyruvate dehydrogenase complex:\nA: is located in the sarcoplasm.\nB: catalyses the conversion of pyruvate to acetyl CoA.\nC: catalyses the conversion of pyruvate to lactate.\nD: catalyses the conversion of lactate to pyruvate.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 1
+    },
+    {
+        "query": "Which of the following is a second messenger that stimulates release of calcium ions into the cytoplasm?\nA: Prostaglandins\nB: Inositol triphosphate\nC: Cyclic AMP\nD: Calmodulin\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 1
+    },
+    {
+        "query": "Which of the following statements about glucose metabolism is correct?\n\nA: Glucagon increases the rate of glycolysis\nB: Glycolysis requires NADP+\nC: In glycolysis, glucose is cleaved into two three-carbon products\nD: The end-product of glycolysis in red blood cells is pyruvate\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 2
+    },
+    {
+        "query": "Before the human genome was sequenced by the Human Genome Project, scientists expected that they would find about 100,000 genes. In fact, they discovered that humans have only about 24,000 genes. How can we exhibit so many different traits from so few genes?\nA: Modification of histone proteins usually increases the function of genes.\nB: Epigenetics enables one gene to produce many different traits.\nC: This is proof that pseudogenes and introns are expressed.\nD: A single gene can produce more than one trait because of alternative splicing\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "Six healthy subjects participate in a study of muscle metabolism during which hyperglycemia and hyperinsulinemia is induced. Muscle biopsy specimens obtained from the subjects during the resting state show significantly increased concentrations of malonyl-CoA. The increased malonyl-CoA concentration most likely directly inhibits which of the following processes in these subjects?\nA: Fatty acid oxidation\nB: Fatty acid synthesis\nC: Gluconeogenesis\nD: Glycogenolysis\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "A 67-year-old woman comes to the physician because of dizziness for 6 weeks. When she stands up suddenly, she becomes light-headed and has to steady herself for approximately 1 to 2 minutes before she is able to walk. She has hypertension and type 2 diabetes mellitus. Current medications include glyburide, a diuretic, a β-adrenergic blocking agent, and an angiotensinconverting enzyme (ACE) inhibitor. Her pulse is 55/min. Her blood pressure is 110/70 mm Hg in the right arm and 70/50 mm Hg in the left arm while supine; her blood pressure is 70/50 mm Hg in the right arm and 50/30 mm Hg in the left arm immediately after standing. Neurologic examination shows no focal findings. An ECG shows sinus bradycardia with no evidence of ischemia. Carotid duplex ultrasonography shows reverse flow in the left vertebral artery with no evidence of occlusion. Which of the following is the most appropriate next step in management?\nA: Cardiac stress scintigraphy\nB: Adjusting her medication regimen\nC: Warfarin therapy\nD: Transesophageal echocardiography\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 1
+    },
+    {
+        "query": "Endurance type exercise training modulates fuel storage and substrate use. Adaptive responses include:\n\nA: lowering intramuscular lipid storage\nB: Increasing liver glycogen content\nC: Increasing muscle glycogen use during exercise\nD: Increasing intramuscular lipid use during exercise\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "On an average daily basis, the gross energy intake of a healthy woman is 9279 kJ, the energy content of her faeces and urine are 647 kJ and 318 kJ, respectively. Her average daily digestible energy intake and metabolisable energy intake would be, respectively,:\n\nA: 647 kJ and 318 kJ\nB: 9279-318 kJ and 9279-647 kJ\nC: 9279+318 kJ and 9279+647 kJ\nD: 9279-647 kJ and 9279-(647+318) kJ\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "A 22-year-old woman comes to the physician in October for a follow-up examination. She feels well. She has a 2-year history of type 1 diabetes mellitus controlled with insulin. She had a normal Pap smear 3 months ago and saw her ophthalmologist 6 months ago. Her 67-year-old grandmother has breast cancer. She is 168 cm (5 ft 6 in) tall and weighs 57 kg (125 lb); BMI is 20 kg/m2 . Her hemoglobin A1c is 6.2%, and fingerstick blood glucose concentration is 118 mg/dL. Which of the following health maintenance recommendations is most appropriate at this time?\nA: Dietary modification for weight loss\nB: Human papillomavirus testing\nC: Mammography\nD: Influenza virus vaccine\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "A cell nucleus contains which of the following?\nI. DNA\nII. Protein\nIII. RNA\nA: I only\nB: II only\nC: III only\nD: I, II, and III\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "What is the primary lipoprotein secreted from the liver that is at least partially composed of dietary derived lipids?\n\nA: Chylomicrons\nB: HDL\nC: VLDL\nD: LDL\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 2
+    },
+    {
+        "query": "A virus such as influenza which emerges suddenly and spreads globally is called:\nA: Epidemic\nB: Endemic\nC: Pandemic\nD: Zoonotic\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 1
+    },
+    {
+        "query": "A 78-year-old man, who underwent coronary angiography with stent placement 8 years ago, comes to the office for a routine health maintenance examination. The patient reports no new symptoms except for shortness of breath and fatigue during exercise that began 3 months ago when he tried to increase the distance of his daily walk from 1 mile to 3 miles. He has not had orthopnea, paroxysmal nocturnal dyspnea, or chest pain. Additional medical history is significant for hypertension, coronary artery disease, dyslipidemia, and polymyalgia rheumatica. The patient also has a heart murmur that was discovered at an armed forces screening physical examination at age 18 years, but it did not prevent him from serving in the military. Medications are metoprolol, atorvastatin, lisinopril, omeprazole, and a low dose of prednisone every other day. The patient is active and manages a small farm. BMI is 26 kg/m2 . Vital signs are temperature 37.0°C (98.6°F), pulse 60/min, respirations 18/min, and blood pressure 124/61 mm Hg. Cardiac examination discloses a normal S1, pronounced S2, and a grade 2/6 late systolic murmur heard at the right upper parasternal border. Pulses are normal in contour. Results of laboratory studies are within the reference ranges. ECG shows no abnormalities. Which of the following is the most appropriate next step in management?\nA: Decrease the dose of metoprolol\nB: Increase the dose of prednisone\nC: Obtain serum vitamin D concentration\nD: Order a transthoracic echocardiography\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "What is leptin resistance?\n\nA: Deficiency of leptin caused by a mutation in the leptin gene\nB: Lack of leptin release from the adipose tissue\nC: High concentrations of leptin without reduction in energy intake\nD: Low concentrations of leptin with increased energy intake\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 2
+    },
+    {
+        "query": "Examination of a patient indicates that they have a medially directed strabismus (squint). This could be due to damage to the\nA: oculomotor nerve.\nB: trochlear nerve.\nC: ophthalmic trigeminal nerve.\nD: abducens nerve.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "Transcription-affecting DNA region that may be located thousands of basepairs away from the promoter.\nA: Enhancer\nB: Repressor\nC: Operator\nD: Promoter\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "Oxygen is used:\nA: in glycolysis.\nB: in the conversion of fatty acids to acetyl CoA.\nC: in the tricarboxylic acid cycle (Krebs' cycle).\nD: in glycogenolysis.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 1
+    },
+    {
+        "query": "Which of the following is not a true statement?\nA: Muscle glycogen is broken down enzymatically to glucose-1-phosphate\nB: Elite endurance runners have a high proportion of Type I fibres in their leg muscles\nC: Liver glycogen is important in the maintenance of the blood glucose concentration\nD: Insulin promotes glucose uptake by all tissues in the body\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "Which of the following is true regarding reflexes?\nA: A positive babinski reflex is the same as a normal flexor response in the assessment of the plantar reflex\nB: An extensor plantar response indicates a lower motor neurone lesion\nC: The root value of the ankle reflex is S1\nD: The root value of the knee reflex is L1, L2\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 2
+    },
+    {
+        "query": "A change in a neuron membrane potential from +50 millivolts to -70 millivolts is considered\nA: depolarization\nB: repolarization\nC: hyperpolarization\nD: an action potential\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 1
+    },
+    {
+        "query": "The risk factors for type 2 diabetes mellitus include:\n\nA: family history\nB: being overweight\nC: high intake of dietary fat\nD: All of the options listed are correct\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "Which of the following processes is not used to modify protein structure after translation has occurred?\nA: Lipidation.\nB: Attachment of more amino acids via peptide bonds.\nC: Glycosylation.\nD: Phosphorylation.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 1
+    },
+    {
+        "query": "What is a virus pandemic?\nA: A sharp and rapid epidemic involving more than one country\nB: An outbreak which recurs again and again\nC: A rapid global outbreak starting from a single focus\nD: A characteristic of common cold virus and HIV\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 2
+    },
+    {
+        "query": "Calculate the body mass index (BMI) for a patient whose height is 1.75 m and whose weight is 99 kg.\n\nA: 29\nB: 32\nC: 39\nD: 43\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 1
+    },
+    {
+        "query": "Which of the following amino acids cannot provide a substrate for gluconeogenesis?\n\nA: Leucine\nB: Tryptophan\nC: Histidine\nD: isoleucine\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "Most of the free fatty acids are transported in the blood:\nA: inside the red blood cells.\nB: as lipoproteins.\nC: combined with glucose.\nD: bound to albumin.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "The patient's self-report of pain is important because health care staff:\nA: can overestimate the intensity of the patient's pain.\nB: underestimate the intensity of the patient's pain.\nC: do not possess an objective way of assessing pain.\nD: can use the information to prescribe and administer the least possible amount of pain relief.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 2
+    },
+    {
+        "query": "What are histones?\n\nA: Lipids\nB: Carbohydrates\nC: Nucleotides\nD: Proteins\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "Which of the following foods do not contain free sugars\n\nA: Cows' milk\nB: Natural unsweetened orange juice\nC: Honey\nD: Agave nectar\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "Molecules of natural polyunsaturated fatty acids in vegetable oils contain:\n\nA: 18 carbon atoms with one carbon-carbon double bond in the cis configuration\nB: 20 carbon atoms with at least two carbon-carbon double bonds in the cis configuration\nC: 18 carbon atoms with at least two carbon-carbon double bonds in the trans configuration\nD: 18 carbon atoms with at least two carbon-carbon double bonds in the cis configuration\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "The amount and composition of dietary fat are important factors for influencing blood lipid metabolism. Which of the following statements is correct?\n\nA: Replacement of saturated fatty acids with n-6 polyunsaturated fatty acids is associated with a reduction in plasma triglyceride concentrations\nB: Replacement of saturated fatty acids with monounsaturated fatty acids is associated with an increase in LDL cholesterol\nC: Consumption of soluble dietary fibre and plant stanols/sterols is associated with a significant increases in LDL cholesterol\nD: Replacement of saturated fatty acids with large amounts of carbohydrate is associated with decreased LDL and increased plasma triglyceride concentrations\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "More and more detrimental effects of malnutrition during childhood and adult life have been identified. The effects of over nutrition e.g. overweight and obesity are less well known. Overweight and obesity are associated with which of the following\n\nA: Cardiovascular disease\nB: Breast cancer\nC: Type 2 diabetes (maturity onset)\nD: all of the options given are correct\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "Which of the following statements about exposures is true?\n\nA: 'Exposure' refers to contact with some factor that may be harmful or beneficial to health.\nB: An exposed individual has a greater risk of disease.\nC: Dietary intake is not an 'exposure' because individuals make a choice about what they eat.\nD: High body mass index is a risk factor for a range of health conditions, therefore, it cannot be treated as a single exposure.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "The conversion of one molecule of glucose to two molecules of pyruvate results in the net formation of:\nA: six molecules of water.\nB: two molecules of ATP.\nC: three molecules of ATP.\nD: thirty-eight molecules of ATP.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 1
+    },
+    {
+        "query": "Mammals are homeostatic for all of the following EXCEPT\nA: body temperature\nB: blood glucose concentration\nC: blood pH\nD: metabolic rate\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "Which of the following statements about the immune system is NOT correct?\nA: Innate immunity, also known as the adaptive immune response, relies on circulating phagocytes engulfing foreign substances.\nB: Adaptive immunity is a slower response than innate immunity.\nC: Innate immunity activates a humoral response.\nD: Dendritic cells are antigen presenting cells.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "Which of the following statements about lipids is correct?\nA: Unsaturated fatty acids are linked to heart disease.\nB: Lipids make up most cell surface receptors.\nC: Phospholipids are water soluble.\nD: Steroids are lipids that consist of glycerol and fatty acids.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 2
+    },
+    {
+        "query": "Insulin deficiency is associated with\n\nA: Reduced lipolysis\nB: Increased ketogenesis\nC: Reduced gluconeogenesis\nD: Reduced proteolysis\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 1
+    },
+    {
+        "query": "A 36-year-old female advertising executive is referred to the office for evaluation of a fasting serum total cholesterol concentration of 249 mg/dL. She has a family history of early coronary artery disease (CAD) and her father died suddenly at age 46 years of myocardial infarction. She tells you that she has never had chest pain. She is not currently sexually active and has no children. She claims that her high-stress lifestyle makes it impossible for her to eat regular meals or to follow a special diet, and she usually eats fast food. She exercises two or three times a week for about 20 minutes on a treadmill. She has smoked one pack of cigarettes daily for the past 20 years. Her only medication is acetaminophen for tension headaches. She is 165 cm (5 ft 5 in) tall and weighs 76 kg (167 lb); BMI is 28 kg/m2 . Vital signs today are normal. Physical examination discloses no abnormalities except for mild obesity. Institution of which of the following is the most essential step in the prevention of CAD in this patient?\nA: Biofeedback-based stress reduction program\nB: More rigorous and consistent exercise program\nC: Smoking cessation program\nD: Strict low-calorie diet\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 2
+    },
+    {
+        "query": "Which of the following is not a beneficial effect of exercise in people with diabetes:\n\nA: Reduction of triglycerides\nB: Hypoglycaemia\nC: increase of insulin sensitivity\nD: help controlling hypertension\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 1
+    },
+    {
+        "query": "A study is conducted to assess the effectiveness of a new drug for the treatment of type 2 diabetes mellitus. A total of 1000 patients with type 2 diabetes mellitus are enrolled. Patients are randomly assigned to receive the new drug or standard treatment. The alpha and beta values for calculating probability are 0.05 and 0.20, respectively. Results show that the new drug is significantly better than standard treatment. If this study had been performed in a population of only 500 patients, which of the following would have been most likely to increase?\nA: Chance of a type I error\nB: Chance of a type II error\nC: Power of the study\nD: Sensitivity of the study\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 1
+    },
+    {
+        "query": "Which of the following statements is incorrect regarding fatty acid ß-oxidation?\n\nA: The major site of fatty acid ß-oxidation is the peroxisomes, the mitochondria also contain enzymes for this pathway\nB: Within the liver peroxisomes serve to oxidise very long chain fatty acids to medium chain products\nC: The rate of b-oxidation is regulated by the availability of fatty acids and the rate of utilisation of b-oxidation products\nD: Peroxisomes are the site for the degradation of xenobiotics and eicosanoids\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "In an epidemiological context, what is the population at risk?\n\nA: The proportion of a population that engage in risky behaviours.\nB: The group of people that may experience the outcome we want to study.\nC: A group of people participating in a study that may be harmful to them.\nD: The population group with the highest relative risk of disease.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 1
+    },
+    {
+        "query": "Which of the following statements is NOT correct about apoptosis?\nA: Apoptosis, a special type of cell division, requires multiple cell signaling.\nB: The fact that apoptosis is widespread across several kingdoms is evidence that it evolved early in the evolution of eukaryotes.\nC: Apoptosis plays a crucial role in the development of fingers in embryonic development.\nD: Apoptosis prevents an aging and dying cell from damaging neighboring cells.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "Metabolism is determined by the:\nA: size of proteins in the cell.\nB: availability of amino acids.\nC: proteins formed as dictated by the genetic material.\nD: amino acid composition of the ribonucleic acids.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 2
+    },
+    {
+        "query": "What do flavonoids (polyphenols), including isoflavones (phytoestrogens), inositol phosphates (phytates), lignans (phytoestrogens), isothiocyanates, indoles, phenols and sulphides and thiols, have in common?\n\nA: They are all sources of fibre\nB: They are all derived from plant foods\nC: They are all vitamins\nD: They are all nutrients\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 1
+    },
+    {
+        "query": "Which of the following statements about protein synthesis is correct?\n\nA: All the information in DNA codes for proteins\nB: The mRNA formed by transcription of a region of DNA only contains information for the protein to be synthesised.\nC: Both strands of DNA are transcribed to form mRNA.\nD: The RNA formed by transcription of DNA undergoes splicing and further modifications to form mRNA.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "Which of the following rules regarding the interconversion of fuels are central to the integration of metabolic pathways?\n\nA: Fatty acids can be made from and converted to carbohydrates and amino acids\nB: Carbohydrates can be made from and converted to amino acids and fatty acids\nC: Fatty acids can be made from but not converted to carbohydrates and amino acids\nD: Amino acids can be made from and converted to fatty acids\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 2
+    },
+    {
+        "query": "Colonic microbiome:\n\nA: Is present in babies in utero\nB: Is a cause of eosinopjhilic oesophagitis\nC: Is easily changed by probiotic supplementation\nD: May be changed with consumption of oligo-saccharides\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "Which organ secretes insulin?\nA: The gastric parietal cells.\nB: The pancreas.\nC: The walls of the large intestine.\nD: The autonomic nervous system.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 1
+    },
+    {
+        "query": "A 55-year-old man has had crushing substernal chest pain on exertion over the past 6 weeks. He had a myocardial infarction 2 months ago. He takes nitroglycerin as needed and one aspirin daily. He has smoked two packs of cigarettes daily for 30 years. Examination shows normal heart sounds and no carotid or femoral bruits. Treatment with a β-adrenergic blocking agent is most likely to improve his symptoms due to which of the following mechanisms?\nA: Decreasing myocardial contractility\nB: Dilating the coronary arteries\nC: Peripheral vasodilation\nD: Preventing fibrin and platelet plugs\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "Children who are obese should:\n\nA: Follow a different diet to the rest of the family\nB: Eat the same and take more exercise\nC: Reduce their total energy intake, increase their activity level and reduce their screen time\nD: Eat more fruit and vegetables\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 2
+    },
+    {
+        "query": "The Atherogenic Lipoprotein Phenotype (ALP) is a collection of which lipoprotein abnormalities?\n\nA: Reduced levels of HDL, a high proportion of small dense LDL and raised triglycerides\nB: Reduced levels of HDL, a high proportion of small dense LDL and normal triglycerides\nC: Raised levels of HDL, a high proportion of small dense LDL and raised triglycerides\nD: Reduced levels of HDL, a low proportion of small dense LDL and raised triglycerides\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "Zinc finger proteins and helix-turn-helix proteins are\nA: types of DNA-binding proteins\nB: involved in the control of translation\nC: components of ribosomes\nD: part of the hemoglobin in blood cells\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "The rate limiting enzyme of glycolysis is:\nA: phosphorylase.\nB: hexokinase.\nC: pyruvate dehydrogenase.\nD: phosphofructokinase.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "Which statement about variation is true?\nA: All phenotypic variation is the result of genotypic variation.\nB: All genetic variation produces phenotypic variation.\nC: All nucleotide variability results in neutral variation.\nD: All new alleles are the result of nucleotide variability.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "The genome is:\nA: the number of chromosomes found in the somatic cells of an organism.\nB: the entire DNA sequence of an organism.\nC: the entire list of proteins that an organism is capable of producing.\nD: the DNA sequence of an entire chromosome.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 1
+    },
+    {
+        "query": "A 37-year-old man with type 1 diabetes mellitus is admitted to the hospital because of inadequate control of his glucose concentrations for the past 2 months. Despite his poor control, he demands that he be discharged. He reports that he has had a 3-month history of fatigue, irritability, and feelings of hopelessness. He says that he has been noncompliant with his diabetic regimen, adding, \"Sometimes I forget.\" He has been avoiding his family and friends because he is not in the mood to see them but admits that he is lonely. He did not get out of bed for 2 days, which prompted his wife to call an ambulance and have him admitted to the hospital. Prior to admission to the hospital, his only medication was insulin, although he often missed doses. He does not drink alcohol. He is 168 cm (5 ft 6 in) tall and weighs 100 kg (220 lb); BMI is 36 kg/m2 . His temperature is 37°C (98.6°F), pulse is 68/min, respirations are 18/min, and blood pressure is 150/85 mm Hg. Physical examination shows no abnormalities. On mental status examination, he is tired and has a restricted affect. There is no evidence of suicidal ideation. Cognition is intact. His fasting serum glucose concentration is 120 mg/dL. Which of the following is the most appropriate next step in management?\nA: Adhere to the patient's wishes and discuss home-care options\nB: Adhere to the patient's wishes on the condition that he agree to home nursing care\nC: Schedule neuropsychological testing\nD: Seek a court order to appoint a legal guardian\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "Which of the following is true in peripheral neuropathy?\nA: Sensory loss is demonstrated in a stocking distribution\nB: The tone is increased bilaterally in the legs\nC: Reflexes are very brisk with reinforcement\nD: Weakness is more marked proximally than distally\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "A 77-year-old man is brought to the physician because of a 12-hour history of word-finding difficulty and weakness and sensory loss of the right arm and leg. He has no history of similar symptoms. He has type 2 diabetes mellitus, hypertension, and atrial fibrillation. Current medications include metformin, lisinopril, and aspirin. He is alert. His pulse is 80/min and irregular, respirations are 16/min, and blood pressure is 170/90 mm Hg. He follows commands but has nonfluent aphasia. There is moderate weakness and decreased sensation of the right upper and lower extremities. Deep tendon reflexes are 2+ bilaterally. Babinski sign is present on the right. His serum glucose concentration is 162 mg/dL. Which of the following is the most appropriate next step in diagnosis?\nA: Carotid duplex ultrasonography\nB: CT scan of the head\nC: EEG\nD: Lumbar puncture\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 1
+    },
+    {
+        "query": "A 19-year-old woman who is a regular patient comes to the office for her annual physical examination and cervical cytology. She tells you that she has not had a menstrual period for the past 6 months. She is a college student who is in good health, has not had any medical illnesses or surgery, and has never been pregnant. She is currently sexually active and uses barrier contraception. She reports that during the past year her menses had become very irregular prior to complete cessation 6 months ago. She also notes that she has gained about 9 kg (20 lb) in the past 6 months and has had an increasing problem with acne and a troublesome growth of hair on her thighs and abdomen. She has been somewhat depressed about this, and her grades have declined. She reports that one of her sisters also had this problem prior to getting married. Physical examination shows a mildly obese young woman who has scattered facial acne, mild male pattern hair growth on the abdomen, and an essentially normal pelvic examination except for slight enlargement of the uterus and both ovaries. This patient's history is most consistent with which of the following?\nA: Androgen-producing ovarian tumor\nB: Cushing syndrome\nC: Hypothyroidism\nD: Polycystic ovarian syndrome\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "A 49-year-old man, who is recovering in the hospital 2 days after uncomplicated left femoral-popliteal bypass grafting for claudication, has now developed increasing pain in his left foot. Until now, the patient's postoperative course had been unremarkable and he has been treated with low-dose morphine for pain control. Medical history is remarkable for type 2 diabetes mellitus controlled with metformin and diet. Vital signs now are temperature 36.8°C (98.2°F), pulse 80/min and regular, respirations 20/min, and blood pressure 150/92 mm Hg. The surgical incision appears clean and well approximated without abnormal erythema or swelling. The left lower extremity and foot appear pale. Palpation of the left lower extremity discloses a strong femoral pulse, a weak popliteal pulse, and a cool, pulseless foot. Which of the following is the most appropriate management?\nA: Bedside compartment pressure measurements\nB: Doppler ultrasonography of the left lower extremity\nC: Intra-arterial tissue plasminogen activator (tPA) therapy\nD: Intraoperative angiography\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "Which of the changes below following the start codon in an mRNA would most likely have the greatest deleterious effect?\nA: a deletion of a single nucleotide\nB: a deletion of a nucleotide triplet\nC: a single nucleotide substitution of the nucleotide occupying the first codon position\nD: a single nucleotide substitution of the nucleotide occupying the third codon position\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "The respiration quotient (RQ):\n\nA: is defined as the ratio of VO2 divided by VCO2.\nB: decreases on a high carbohydrate diet.\nC: increases with fasting.\nD: goes beyond a value of 1.0 when exogenous carbohydrate is converted to endogenous fat.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "A 15-year-old girl is brought to the physician 3 months after she had a blood pressure of 150/95 mm Hg at a routine examination prior to participation in school sports. She is asymptomatic and has no history of serious illness. Twelve months ago, she was diagnosed with a urinary tract infection and treated with oral trimethoprim-sulfamethoxazole. She currently takes no medications. Subsequent blood pressure measurements on three separate occasions since the last visit have been: 155/94 mm Hg, 145/90 mm Hg, and 150/92 mm Hg. She is at the 50th percentile for height and 95th percentile for weight. Her blood pressure today is 150/90 mm Hg confirmed by a second measurement, pulse is 80/min, and respirations are 12/min. Examination shows no other abnormalities. Her hematocrit is 40%. Urinalysis is within normal limits. Cardiac and renal ultrasonography shows no abnormalities. Which of the following is the most appropriate next step in management?\nA: Exercise and weight reduction program\nB: Measurement of urine catecholamine concentrations\nC: Measurement of urine corticosteroid concentrations\nD: Captopril therapy\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "Asp235Phe in a molecular report indicates that:\nA: asparagine has been replaced by phenylalanine.\nB: phenylalanine has been replaced by asparagine.\nC: aspartic acid has been replaced by phenylalanine.\nD: phenylalanine has been replaced by aspartic acid.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 2
+    },
+    {
+        "query": "A randomized controlled trial is conducted to assess the effectiveness of a new combination-drug antihypertensive therapy (Drug X) compared with a standard antihypertensive single-drug therapy. Study participants include 140 women (70%) and 60 men (30%) ages 30 to 60 years, with baseline blood pressure measurements of 150/95 mm Hg or higher. The investigators defined antihypertensive therapy as effective if the treatment resulted in a blood pressure measurement below 140/90 mm Hg. When designing the study, the investigators set the probability of wrongly finding that Drug X is more effective than the standard therapy as 1%; they set the probability of wrongly finding that the effectiveness of the two drugs is the same as 10%. Which of the following is the most accurate estimate of the statistical power in this study?\nA: 1%\nB: 10%\nC: 40%\nD: 90%\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "Assuming Hardy-Weinberg equilibrium, the genoypte frequency of heterozygotes, if the frequency of the two alleles at the gene being studied are 0.6 and 0.4, will be:\nA: 0.8\nB: 0.64\nC: 0.48\nD: 0.32\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 2
+    },
+    {
+        "query": "Glycogen breakdown in muscle initially results in the formation of:\nA: glucose.\nB: glucose-1-phosphate.\nC: glucose-6-phosphate.\nD: glucose-1,6-diphosphate.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 1
+    },
+    {
+        "query": "Transcriptional activator proteins\nA: bind regions near a eukaryotic gene and allow an RNA polymerase to transcribe a gene\nB: bind to ribosomes to activate the production of specific proteins\nC: are produced during an infection of bacteria by a phage\nD: are essential to function of transfer RNAs during translation\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "A 6-year-old boy is brought to the emergency department 2 hours after injuring his arm when he fell out of a tree. His mother says that he is extremely active and likes to climb. During the past year, he fractured his right tibia after falling off a trampoline and sustained a concussion after falling off his bicycle. She says that his teachers reprimand him frequently for running wildly in the classroom, talking excessively, and getting out of his seat; he often forgets to turn in his homework. His parents are currently divorcing. His father has a history of illicit drug use. The patient is at the 50th percentile for height and weight. His pulse is 80/min, and blood pressure is 100/80 mm Hg. Physical examination shows a dislocated left shoulder, healing abrasions over the elbows, and ecchymoses in various stages of healing over the knees. Mental status examination shows a neutral affect. He says that he likes to run and climb trees. Which of the following is the most likely explanation for these findings?\nA: Attention-deficit/hyperactivity disorder\nB: Conduct disorder\nC: Learning disorder\nD: Seizure disorder\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "Why might some biochemical (eg plasma or serum) indices of micronutrient status give misleading results in people with infections or inflammatory states?\n\nA: Because people who are sick often alter their diets, and may eat less food.\nB: Because the accuracy of some laboratory assays may be compromised in samples from people who are sick.\nC: Because some metabolic pathways are altered in sick people, which changes their micronutrient requirements.\nD: Because an acute phase reaction results in changes in inter-tissue distributions of certain micronutrients.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 3
+    },
+    {
+        "query": "All of the following may serve as intracellular messengers EXCEPT\nA: calcium ions\nB: cAMP\nC: acetylcholine\nD: inositol 1,4,5-triphosphate\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 2
+    },
+    {
+        "query": "Root pressure created by a plant's roots causes water to enter the roots by\nA: translocation\nB: adhesion\nC: osmosis\nD: capillary action\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+        "answer": 2
+    }
+]

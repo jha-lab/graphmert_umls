@@ -1,0 +1,166 @@
+# LLM extraction settings and prompt
+
+# --- LLM Configuration ---
+llm_config:
+  model_path: "/scratch/gpfs/JHA/models/Qwen3-14B" #/path/to/your/local/model"
+  temperature: 0.6
+  top_p: 0.95
+  max_tokens: 8192
+  batch_size: 100
+  max_model_len: 20000
+  tensor_parallel_size: 1
+
+# --- Prompts ---
+completion_delimiter: "<|COMPLETE|>"
+tuple_delimiter: "<|>"
+record_delimiter: "##"
+
+entity_types: ['Organism', 'Anatomical Structure', 'Manufactured Object', 'Substance', 'Conceptual Entity']
+entity_types_examples: |
+  1. Organism: Plant; Fungus; Virus; Bacterium; Archaeon; Eukaryote; Vertebrate; Amphibian; Bird; Fish; Reptile; Mammal; Human
+  2. Anatomical Structure: Embryonic Structure; Anatomical Abnormality; Congenital Abnormality; Acquired Abnormality; Fully Formed Anatomical Structure; Body Part, Organ, or Organ Component; Tissue; Cell; Cell Component; Gene or Genome
+  3. Manufactured Object: Medical Device; Drug Delivery Device; Research Device; Clinical Drug
+  4. Substance: Chemical; Pharmacologic Substance; Antibiotic; Biomedical or Dental Material; Biologically Active Substance; Hormone; Enzyme; Vitamin; Immunologic Factor; Receptor; Indicator, Reagent, or Diagnostic Aid; Organic Chemical; Nucleic Acid, Nucleoside, or Nucleotide; Amino Acid, Peptide, or Protein; Inorganic Chemical; Element, Ion, or Isotope; Body Substance; Food
+  5. Conceptual Entity: Idea or Concept; Body System; Body Space or Junction; Body Location or Region; Molecular Sequence; Nucleotide Sequence; Amino Acid Sequence; Carbohydrate Sequence; Geographic Area; Finding; Laboratory or Test Result; Sign or Symptom; Organism Attribute; Clinical Attribute; Intellectual Product; Occupation or Discipline; Organization; Group
+
+
+relation_types: ['associated_finding_of', 'associated_morphology_of', 'associated_with', 'causative_agent_of', 'cause_of', 'direct_procedure_site_of', 'due_to', 'finding_site_of', 'focus_of', 'has_associated_morphology', 'has_causative_agent', 'has_clinical_course', 'has_component', 'has_direct_procedure_site', 'has_direct_substance', 'has_disposition', 'has_entire_anatomy_structure', 'has_finding_site', 'has_focus', 'has_method', 'has_modification', 'has_part', 'has_pathological_process', 'interprets', 'inverse_isa', 'is_interpreted_by', 'is_modification_of', 'isa', 'method_of', 'occurs_before', 'occurs_in', 'part_of', 'plays_role', 'possibly_equivalent_to', 'same_as']
+relation_types_examples: |
+  fetal growth restriction (fgr), associated_finding_of, history of fetal growth retardation
+  tumors, associated_morphology_of, neoplastic disease
+  neutropenia, associated_with, neutropenic sepsis
+  s. epidermidis, causative_agent_of, staphylococcus epidermidis ventriculitis
+  chronic kidney disease (ckd), cause_of, renal retinopathy
+  gastric fundus,	direct_procedure_site_of, laparoscopic fundoplication
+  diabetic cardiomyopathy ( dbcm ), due_to, diabetes mellitus
+  endocrine pancreas, finding_site_of, extreme insulin resistance type a
+  gait abnormalities, focus_of, prosthetic gait training
+  pyoderma gangrenosum, has_associated_morphology, neutrophilic infiltration
+  chronic chagas disease cardiomyopathy, has_causative_agent, trypanosoma cruzi
+  membranous nephropathy, has_clinical_course, chronic
+  serum creatinine level, has_component, creatinine
+  fmt, has_direct_procedure_site, gastrointestinal tract structure
+  high-intensity statins, has_direct_substance, hmg-coa reductase inhibitor
+  resveratrol (res), has_disposition, platelet aggregation inhibitor
+  middle occipital gyrus, has_entire_anatomy_structure, entire lateral occipital gyrus
+  diabetes retinopathy, has_finding_site, retinal structure
+  on-line hemodiafiltration, has_focus, renal failure syndrome
+  islet cell transplant, has_method, surgical transplantation
+  uric acid, has_modification, calcium urate
+  anaerobic glycolysis, has_part, pyruvate kinase activity
+  evans syndrome, has_pathological_process, autoimmune process
+  endocrine hypertension,	interprets,	blood pressure
+  adaptive thermogenesis, inverse_isa, diet induced thermogenesis
+  serum triglyceride, is_interpreted_by, serum triglyceride levels
+  tau, is_modification_of, uridine
+  t cell receptors, isa, antigen receptor
+  amputation, method_of, cineplastic amputation
+  renal transplantation, occurs_before, accelerated rejection of renal transplant
+  paediatric obesity, occurs_in, childhood
+  bone resorption, part_of, bone remodeling
+  everolimus (eve), plays_role, antineoplastic therapeutic role
+  non-alcoholic fatty liver disease, possibly_equivalent_to, fatty liver
+  retinal cotton wool spots, same_as, retinal exudates
+
+prompt_template: |
+  -Role-
+  You are an AI assistant specialized in extracting structured information from biomedical texts to build a knowledge graph about diabetes.
+
+  -Goal-
+  Given some medical paper abstracts, a predefined list of entity types, and a predefined list of relations, identify all entities of those types and the medically meaningful relationships explicitly described among the identified entities within the abstract. You should only extract entities that are relevant to diabetes, its complications, and comorbidites.
+  
+  -Entitiy Types-
+  You should extract entities from the following entity types: 
+  {entity_types}
+
+  Use the examples listed below SOLELY as guidance to help you determine the correct main entity type. Only use the main entity types in your output.
+  {entity_types_examples}
+
+  -Relation Types-
+  Please only identify the following relations:
+  {relation_types}
+  
+  The following provides one example for each type of relation, formatted as 'head, relation, tail':
+  {entity_types_examples}
+
+  -Steps-
+  1. Identify all entities corresponding to one of the main entity types and relevant to diabetes, using the subcategory examples as guidance for classification. 
+  For each identified entity, extract the following information:
+  - entity_name: Name of the entity, lowercase
+  - entity_type: One of the following types: Organism, Anatomical Structure, Manufactured Object, Substance, Conceptual Entity.
+  - entity_description: concise description of the entity's attributes and activities
+  Format each entity as ("entity"{tuple_delimiter}<entity_name>{tuple_delimiter}<entity_type>{tuple_delimiter}<entity_description>)
+ 
+  2. From the entities identified in step 1, identify all pairs of (source_entity, target_entity) that are *clearly related* to each other according to the given text, and are medically meaningful. 
+  Only use the relationships that are in the predefined list.
+
+  Avoid relationships that are attached to entities that are too general, for example: patients, bodily functions, parameters, management, optimization
+  Only keep the relationships that state facts, represent the main idea in the text, or other important relationships that are in the predefined list.
+  It's acceptable if some entities identified in the previous step are not used.
+
+  For each pair of related entities, extract the following information:
+  - source_entity: name of the source entity, as identified in step 1
+  - target_entity: name of the target entity, as identified in step 1
+  - relationship: one relation that is in the predefined list, according to the given text
+  - relationship_strength: a numeric score out of 10 indicating the strength of the relationship between the source entity and target entity
+  Format each relationship as ("relationship"{tuple_delimiter}<source_entity>{tuple_delimiter}<target_entity>{tuple_delimiter}<relationship_description>{tuple_delimiter}<relationship_strength>)
+ 
+  3. Return output in English as a single list of all the entities and relationships identified in steps 1 and 2. Use **{record_delimiter}** as the list delimiter.
+ 
+  4. When finished, output {completion_delimiter}
+
+  -Constraints and Guidelines-
+
+  - Strict Textual Grounding: Base all extractions only on the provided medical abstract. Do not use external knowledge or make assumptions beyond what is written.
+  - Entity Filtering: Only extract the entities whose type is present in the provided Entity Type, and only extract entities that are relevant to diabetes, its complications, and comorbidites. 
+  - Relationship Filtering: Extract only the relationships as defined. Exclude all other relationships.
+  - Delimiter Usage: Strictly adhere to the specified {tuple_delimiter} within tuples and {record_delimiter} between records.
+
+
+user_prompt: |
+  ######################
+  Text:
+  {input_text}
+  ######################
+  Output:
+
+
+# Examples: You can add as many pairs as you want here
+examples:
+  - user: |
+      ######################
+      Text:
+      CMR imaging enables comprehensive detection of myocardial remodeling in patients undergoing TAVR. Regression of LV matrix volume as a surrogate for reversible diffuse myocardial fibrosis is accompanied by increase of myocardial function and recovery from heart failure. Further data are required to define the value of these parameters as therapeutic targets for optimized management of TAVR patients.
+      ######################
+      Output:
+    assistant: |
+      ("entity"{tuple_delimiter}cmr imaging{tuple_delimiter}Conceptual Entity{tuple_delimiter}A medical imaging technology that allows for the comprehensive detection of myocardial remodeling.)
+      {record_delimiter}
+      ("entity"{tuple_delimiter}myocardial remodeling{tuple_delimiter}Conceptual Entity{tuple_delimiter}A pathological process involving changes in the heart muscle, observed in patients undergoing TAVR.)
+      {record_delimiter}
+      ("entity"{tuple_delimiter}tavr{tuple_delimiter}Conceptual Entity{tuple_delimiter}Transcatheter Aortic Valve Replacement, a medical procedure undergone by patients with myocardial remodeling.)
+      {record_delimiter}
+      ("entity"{tuple_delimiter}regression of lv matrix volume{tuple_delimiter}Conceptual Entity{tuple_delimiter}The reduction in the volume of the left ventricular matrix.)
+      {record_delimiter}
+      ("entity"{tuple_delimiter}reversible diffuse myocardial fibrosis{tuple_delimiter}Conceptual Entity{tuple_delimiter}A condition of the heart muscle for which the regression of LV matrix volume acts as a surrogate.)
+      {record_delimiter}
+      ("entity"{tuple_delimiter}myocardial function{tuple_delimiter}Conceptual Entity{tuple_delimiter}The physiological performance of the heart muscle.)
+      {record_delimiter}
+      ("entity"{tuple_delimiter}heart failure{tuple_delimiter}Conceptual Entity{tuple_delimiter}A clinical condition from which recovery is observed along with the regression of LV matrix volume.)
+      {record_delimiter}
+
+      ("relationship"{tuple_delimiter}myocardial remodeling{tuple_delimiter}cmr imaging{tuple_delimiter}has_method{tuple_delimiter}9)
+      {record_delimiter}
+      ("relationship"{tuple_delimiter}regression of lv matrix volume{tuple_delimiter}reversible diffuse myocardial fibrosis{tuple_delimiter}is_interpreted_by{tuple_delimiter}9)
+      {record_delimiter}
+      ("relationship"{tuple_delimiter}regression of lv matrix volume{tuple_delimiter}myocardial function{tuple_delimiter}associated_with{tuple_delimiter}10)
+      {record_delimiter}
+      ("relationship"{tuple_delimiter}regression of lv matrix volume{tuple_delimiter}heart failure{tuple_delimiter}associated_with{tuple_delimiter}10)
+      {record_delimiter}
+      ("relationship"{tuple_delimiter}tavr{tuple_delimiter}myocardial remodeling{tuple_delimiter}occurs_before{tuple_delimiter}8)
+      {completion_delimiter}
+
+  # - user: |
+  #     ... second example user text ...
+  #   assistant: |
+  #     ... second example assistant text ...

@@ -1,0 +1,40 @@
+# config.yaml
+
+paths:
+  # Base directories
+  data_dir: "/scratch/gpfs/JHA/jx0800/data/umls_test"
+  filtered_ent_src: "umls_data/filtered_mrconso_limit_vocab.csv" #"/scratch/gpfs/JHA/jx0800/data/umls/mapping/filtered_mrconso_limit_vocab.csv" # for 1_map_entities.py, 3_generate_embeddings.py
+  filtered_rel_src: "umls_data/filtered_mrrel.csv" #"/scratch/gpfs/JHA/jx0800/data/umls/mapping/filtered_rel.csv" # for 2_merge_results.py
+
+  # Input files
+  dataset: "/scratch/gpfs/JHA/jx0800/data/umls_test/39k_abstracts_eval_qwen3-14b_heads_all" # for 1_map_entities.py, 3_generate_embeddings.py, 4_rank_triples.py
+  
+  # Output files (automatically saved to data_dir)
+  faiss_index: "umls_sapbert_faiss.index"
+  umls_embeddings: "umls_sapbert_embeddings.npy"
+  term_map: "umls_sapbert_termid_map.pkl"
+  head_to_cui_map: "final_head_to_cui.json"
+  relations_to_embed: "filtered_relations_for_embedding.parquet"
+  relations_embeddings: "gemini_relations_embeddings.parquet"
+  dataset_with_embeddings: "dataset_gemini_embedded"
+  final_output: "final_ranked_triples"
+
+models:
+  sapbert: "/scratch/gpfs/JHA/models/SapBERT-from-PubMedBERT-fulltext" #"cambridgeltl/SapBERT-from-PubMedBERT-fulltext"
+  biomedbert: "microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext"
+  gemini_embedding: "text-embedding-004"
+
+params:
+  batch_size_sapbert: 2048 # Batch size for local SapBERT embedding generation. 
+  batch_size_gemini: 100 # Batch size for API calls to Gemini, maximum 100 per request.
+  top_k_ann: 50 # Number of initial candidates to retrieve via FAISS.
+  top_k_final: 40 # Number of final candidates to keep after filtering
+  similarity_threshold: 0.85 # Minimum embedding similarity score to keep a candidate.
+  jaccard_threshold: 0.5 # Minimum Jaccard similarity
+  cosine_threshold: 0.7 # Minimum cosine similarity
+
+gemini:
+# API Key is loaded from os.getenv("GEMINI_API_KEY") in the script.
+# You can leave this blank or provide a default for local testing.
+  api_key: "YOUR_KEY_HERE"
+  rpm_limit: 150 # Requests per minute limit for Gemini API

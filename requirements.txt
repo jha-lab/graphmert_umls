@@ -1,0 +1,13 @@
+accelerate==1.12.0
+aiohttp==3.13.3
+apache-beam==2.70.0
+Cython==3.2.4
+evaluate==0.4.6
+ipykernel==6.31.0
+matplotlib==3.10.8
+pip==25.3
+scikit-learn==1.8.0
+shellingham==1.5.4
+spacy==3.8.11
+transformers==4.57.3
+wheel==0.45.1

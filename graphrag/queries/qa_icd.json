@@ -1,0 +1,416 @@
+[
+  {
+    "query": "A 62-year-old male with a 20-year history of poorly controlled type 2 diabetes mellitus presents to the clinic complaining of worsening numbness and tingling in his feet, extending up to his mid-calves bilaterally. He describes the sensation as \"pins and needles\" and burning, especially at night. His HbA1c is currently 9.8%. Examination reveals decreased sensation to light touch and vibration in both feet, absent ankle reflexes, and normal motor strength. He reports adhering to a strict vegan diet for the past 5 years and is on metformin 2000mg daily. He denies alcohol abuse. Which of the following is the MOST appropriate next step in the management of this patient's peripheral neuropathy?\nA. Prescribe pregabalin for symptomatic relief.\nB. Initiate duloxetine and closely monitor for side effects.\nC. Order serum methylmalonic acid and homocysteine levels.\nD. Increase the metformin dosage to the maximum tolerated dose.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 2,
+    "k_hop": 1,
+    "level": null
+  },
+  {
+    "query": "A 58-year-old male with a 15-year history of poorly controlled type 2 diabetes mellitus presents to your clinic complaining of chronic diarrhea, abdominal bloating, and a 10-pound weight loss over the past 6 months despite a seemingly normal appetite. He reports taking metformin and glipizide for diabetes management. A recent comprehensive metabolic panel reveals normal liver function, renal function, and electrolyte levels, but his fasting blood glucose is consistently elevated above 200 mg/dL. Stool studies are negative for ova and parasites, *C. difficile* toxin, and fecal leukocytes. His glycosylated hemoglobin (HbA1c) is 11.5%. What is the MOST likely underlying mechanism contributing to this patient's gastrointestinal symptoms?\nA. Metformin-induced small intestinal bacterial overgrowth (SIBO)\nB. Damage to pancreatic islet cells from chronic hyperglycemia, leading to insulin resistance\nC. Reduced pancreatic enzyme secretion secondary to long-standing pancreatic exocrine dysfunction\nD. Autoimmune-mediated destruction of the intestinal villi, similar to celiac disease\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 2,
+    "k_hop": 1,
+    "level": null
+  },
+  {
+    "query": "28-year-old woman presents to the endocrine clinic complaining of increasing insulin resistance requiring escalating insulin dosages. Physical examination reveals significant fat loss in her limbs and trunk, with prominent musculature, while fat appears preserved in her neck and face. She also exhibits acanthosis nigricans. Her mother had similar body habitus changes and developed diabetes in her 30s. Genetic testing is pursued to understand the etiology of her insulin resistance. Which of the following genetic mutations is MOST likely implicated, considering the observed phenotype and family history?\nA. LMNA\nB. AGPAT2\nC. PPARG\nD. BSCL2\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 0,
+    "k_hop": 1,
+    "level": null
+  },
+  {
+    "query": "A 58-year-old male with a history of hypertension, hyperlipidemia, and type 2 diabetes presents to your office complaining of fatigue, anorexia, and vague right upper quadrant discomfort for the past 3 months. His physical exam reveals mild hepatomegaly. Laboratory studies show: ALT 210 U/L, AST 195 U/L, Alkaline Phosphatase 160 U/L, Total Bilirubin 4.2 mg/dL, Direct Bilirubin 3.5 mg/dL, Albumin 3.8 g/dL, INR 1.1. Viral hepatitis serologies are negative. An abdominal ultrasound reveals a mildly enlarged, homogenous liver with increased echogenicity. What is the MOST likely underlying mechanism contributing to this patient's elevated bilirubin?\nA. Intrahepatic cholestasis secondary to biliary duct obstruction from gallstones.\nB. Reduced hepatic bilirubin uptake due to congenital enzyme deficiency.\nC. Impaired hepatocyte function leading to decreased bilirubin conjugation and excretion.\nD. Increased bilirubin production secondary to hemolysis.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 2,
+    "k_hop": 1,
+    "level": null
+  },
+  {
+    "query": "** A 78-year-old female with a history of hypertension and chronic kidney disease (CKD) stage III presents to the clinic complaining of increasing fatigue, dizziness upon standing, and muscle cramps over the past several weeks. Her medications include lisinopril, amlodipine, and cholecalciferol. Physical examination reveals dry mucous membranes, decreased skin turgor, and orthostatic hypotension. Labs show: Na 148 mEq/L, K 5.1 mEq/L, Cl 105 mEq/L, BUN 35 mg/dL, Creatinine 2.1 mg/dL (baseline Creatinine 1.8 mg/dL). Urine specific gravity is 1.032. Which of the following is the MOST likely contributing factor to this patient\u2019s presentation?\n**\nA. Recent initiation of cholecalciferol supplementation.\nB. Medication-induced nephrogenic diabetes insipidus.\nC. Age-related decline in thirst perception and subsequent fluid restriction.\nD. Acute exacerbation of hypertension leading to increased natriuresis.\n**\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 2,
+    "k_hop": 1,
+    "level": null
+  },
+  {
+    "query": "A 45-year-old male with a Body Mass Index (BMI) of 38 kg/m\u00b2 presents to your clinic complaining of fatigue and mild right upper quadrant abdominal discomfort. Liver function tests reveal elevated ALT and AST (both approximately 2-3 times the upper limit of normal). Viral hepatitis serologies are negative, as are tests for autoimmune liver disease. He reports consuming alcohol very rarely (less than one drink per week). Ultrasound imaging of the liver reveals hepatomegaly with increased echogenicity consistent with steatosis. Further investigation should focus on mitigating which of the following underlying contributing factors to prevent further liver damage?\nA. Initiation of ursodeoxycholic acid to improve bile flow.\nB. Dietary changes aimed at achieving a 7-10% weight reduction.\nC. Prophylactic antibiotic therapy to address potential small intestinal bacterial overgrowth.\nD. Screening for and treatment of Wilson's disease despite the low clinical suspicion.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 1,
+    "k_hop": 1,
+    "level": null
+  },
+  {
+    "query": "A 28-year-old male presents to the clinic for evaluation of elevated cholesterol levels detected during a routine physical. He reports no significant medical history and denies family history of premature cardiovascular disease or lipid disorders. Physical exam is unremarkable. Lipid panel reveals significantly low LDL-cholesterol (LDL-C <20 mg/dL), normal triglycerides, and normal HDL-cholesterol. Further testing reveals extremely low levels of apolipoprotein B (ApoB). Genetic testing is pursued. Which of the following genetic testing results would be *least* surprising given the clinical presentation?\nA. A heterozygous missense mutation in the *LDLR* gene.\nB. A homozygous nonsense mutation resulting in a truncated ApoB protein.\nC. A heterozygous missense mutation affecting the receptor-binding domain of ApoB-100.\nD. A homozygous gain-of-function mutation in *PCSK9*.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 1,
+    "k_hop": 1,
+    "level": null
+  },
+  {
+    "query": "A 3-month-old male infant is brought to the clinic by his parents due to persistent inward deviation of the left eye since birth. Physical examination reveals normal growth parameters and neurological function, except for the esotropia of the left eye. Laboratory investigations reveal elevated serum triglycerides (450 mg/dL), normal total cholesterol, and absent glycerol in the urine. He is otherwise asymptomatic. Further workup to determine the etiology of his strabismus should *most appropriately* include evaluation for abnormalities related to the metabolism of which of the following?\nA. Branched-chain amino acids\nB. Long-chain fatty acids\nC. Fructose\nD. Glycerol\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 3,
+    "k_hop": 1,
+    "level": null
+  },
+  {
+    "query": "A 6-month-old infant presents with lethargy, poor feeding, and recurrent vomiting following introduction of protein-rich solid foods. Initial laboratory findings reveal metabolic acidosis, hyperammonemia, ketonuria, and elevated urine levels of methylcitrate and 3-hydroxypropionic acid. Despite initial stabilization with intravenous fluids and glucose, the infant continues to exhibit poor appetite and slow weight gain. Which of the following interventions is MOST likely to improve the infant's metabolic profile and long-term outcome in this clinical scenario?\nA. Initiation of a ketogenic diet with a high-fat, very-low-protein composition.\nB. Restriction of branched-chain amino acids (BCAAs) leucine, isoleucine, and valine.\nC. Supplementation with a synthetic short-chain fatty acid analogue.\nD. Administration of L-carnitine alongside dietary protein management.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 3,
+    "k_hop": 1,
+    "level": null
+  },
+  {
+    "query": "A 3-day-old male infant, born at term to consanguineous parents, presents with persistent hypoglycemia despite continuous intravenous glucose infusion. The infant requires escalating doses of dextrose to maintain a blood glucose level above 50 mg/dL. Physical examination is unremarkable. Initial laboratory investigations reveal elevated serum insulin levels in the setting of low blood glucose and undetectable urine ketones. Diazoxide is administered but fails to improve glycemic control. Genetic testing is being considered. Which of the following underlying mechanisms is MOST likely contributing to this infant's condition?\nA. Activating mutation in the glucokinase gene, leading to increased insulin secretion in response to even minimal glucose fluctuations.\nB. Loss-of-function mutation in the sulfonylurea receptor (SUR1) subunit of the ATP-sensitive potassium channel in pancreatic beta cells.\nC. Defect in glutamate dehydrogenase (GDH), resulting in increased sensitivity to leucine-stimulated insulin secretion.\nD. Mutation affecting the short-chain 3-hydroxyacyl-CoA dehydrogenase (SCHAD), impairing its inhibitory effect on glutamate dehydrogenase.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 3,
+    "k_hop": 1,
+    "level": null
+  },
+  {
+    "query": "A 17-year-old female presents with concerns about fat loss in her face and upper trunk, which has progressed over the past two years. Physical examination reveals subcutaneous fat loss in the face, neck, and upper extremities, with relatively normal fat distribution in the lower extremities. She reports no significant weight loss, but has noticed increased appetite and worsening insulin resistance, requiring escalating doses of metformin. Her HbA1c is 8.2%. Lipid panel shows elevated triglycerides and low HDL cholesterol. Further investigations reveal markedly reduced leptin levels. Which of the following interventions is MOST likely to address both her metabolic abnormalities and potentially mitigate further fat loss progression?\nA. Pioglitazone\nB. High-dose statin therapy\nC. Metreleptin\nD. Bariatric surgery\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 2,
+    "k_hop": 1,
+    "level": null
+  },
+  {
+    "query": "14-month-old male presents to the developmental pediatrics clinic. His parents report developmental delays, particularly in expressive language and fine motor skills. He can sit unsupported but is not yet pulling to stand or crawling. Physical examination is unremarkable except for a faint, sweet odor noted during the examination. The child's birth history is significant for prematurity at 34 weeks gestation. He initially fed well but later developed poor feeding and lethargy, requiring a brief NICU stay. Initial newborn screening results were reported as normal, and no specific metabolic workup was initiated at that time. Which of the following diagnostic considerations is MOST appropriate given this presentation?\nA. Re-evaluation of the initial newborn screening with consideration for false negative results related to premature birth and initiation of branched-chain amino acid (BCAA) analysis.\nB. Chromosomal microarray analysis to rule out common genetic syndromes associated with developmental delay.\nC. MRI of the brain to evaluate for structural abnormalities that may explain the developmental delays.\nD. Extensive neuropsychological testing to quantify the extent of the cognitive deficits and guide individualized educational planning.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 0,
+    "k_hop": 1,
+    "level": null
+  },
+  {
+    "query": "6-month-old infant presents to the clinic for a well-child checkup. The mother reports no concerns about feeding, development, or behavior. The infant is thriving, and physical examination is unremarkable. Routine urinalysis reveals the presence of a reducing substance that tests negative for glucose using a glucose oxidase dipstick. Further laboratory testing identifies the reducing substance as fructose. All other laboratory values, including liver function tests and blood glucose, are within normal limits. What is the MOST likely underlying cause of this finding, assuming no dietary history of excessive fruit juice consumption?\nA. Essential fructosuria\nB. Hereditary fructose intolerance\nC. Maturity-onset diabetes of the young (MODY)\nD. Renal tubular glycosuria\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 0,
+    "k_hop": 1,
+    "level": null
+  },
+  {
+    "query": "A 3-day-old neonate, born at term to consanguineous parents, presents with recurrent episodes of hypoglycemia (glucose <40 mg/dL) despite continuous intravenous dextrose infusion. The infant requires a glucose infusion rate of 12 mg/kg/min to maintain normoglycemia. Laboratory investigations reveal elevated insulin levels in the setting of low blood glucose. Initial genetic testing is inconclusive for mutations in *ABCC8* and *KCNJ11*. Further investigations reveal normal cortisol and growth hormone levels. Which of the following underlying mechanisms is MOST likely contributing to this infant's condition?\nA. Gain-of-function mutation in the glucokinase gene.\nB. Loss-of-function mutation in the insulin receptor gene.\nC. Mutation leading to increased glutamate dehydrogenase activity in pancreatic beta cells.\nD. Impaired degradation of insulin by the liver due to a genetic defect.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 2,
+    "k_hop": 1,
+    "level": null
+  },
+  {
+    "query": "A 32-year-old woman, G1P0, presents at 30 weeks gestation complaining of severe, generalized pruritus that began two weeks ago. Physical examination reveals excoriations on her abdomen, arms, and legs. There is no rash. Her liver enzymes are elevated (AST 180 U/L, ALT 210 U/L, ALP 350 U/L, GGT 400 U/L). Bilirubin is slightly elevated at 2.5 mg/dL. A comprehensive viral hepatitis panel is negative. Ursodeoxycholic acid has been initiated, providing minimal relief. Further investigation reveals significantly elevated triglyceride levels (850 mg/dL). Which of the following is the MOST likely contributing factor to this patient's hepatic dysfunction?\nA. Acute viral hepatitis reactivation due to pregnancy-induced immunosuppression.\nB. Direct toxic effect of elevated estrogen levels on the hepatobiliary system.\nC. Impaired bile acid transport secondary to increased plasma lipoprotein concentration.\nD. Autoimmune-mediated destruction of small bile ducts triggered by pregnancy.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 2,
+    "k_hop": 1,
+    "level": null
+  },
+  {
+    "query": "3-day-old neonate presents with recurrent episodes of hypoglycemia despite intravenous glucose infusion at a rate of 12 mg/kg/min. The baby was born at term weighing 3.8 kg. Physical examination is unremarkable. Initial laboratory results reveal glucose of 30 mg/dL, insulin of 25 \u00b5U/mL (normal <5 \u00b5U/mL), undetectable C-peptide, normal cortisol, and negative urine ketones. Genetic testing reveals a homozygous mutation in the *GCK* gene. What is the most likely underlying mechanism contributing to the elevated insulin levels in this patient?\nA. Increased sensitivity of pancreatic beta cells to glucose stimulation.\nB. Impaired feedback inhibition of insulin secretion by hypoglycemia.\nC. Upregulation of insulin gene transcription due to chronic hyperglycemia.\nD. Increased hepatic glucose output leading to reactive hyperinsulinemia.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 0,
+    "k_hop": 1,
+    "level": null
+  },
+  {
+    "query": "A 62-year-old male presents with a 6-month history of progressive numbness and tingling in his feet, which has now ascended to his mid-calf. He also reports recent episodes of lightheadedness upon standing, erectile dysfunction, and unintentional weight loss. Neurological examination reveals diminished pinprick sensation and vibration sense in the lower extremities, and decreased deep tendon reflexes bilaterally. Cardiac examination reveals a mild diastolic murmur. Urinalysis shows trace protein. Family history is significant for a maternal uncle who died in his 50s from \"heart problems\" of unknown etiology. Which of the following underlying conditions is MOST likely contributing to this patient's presentation?\nA. Chronic Inflammatory Demyelinating Polyneuropathy (CIDP)\nB. Length-dependent diabetic neuropathy\nC. Transthyretin (TTR) amyloidosis\nD. Vitamin B12 deficiency\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 2,
+    "k_hop": 1,
+    "level": null
+  },
+  {
+    "query": "A 55-year-old male with a history of chronic pancreatitis presents to the emergency department complaining of abdominal pain and nausea. His lipase level is normal, but the amylase level from a blood sample drawn in an EDTA tube is significantly lower than the reference range. Liver function tests are normal. The patient denies alcohol use. He is on no medications known to affect amylase levels. Given these findings, what is the MOST LIKELY explanation for the unexpectedly low amylase level?\nA. The patient has exhausted pancreatic enzyme production due to severe chronic pancreatitis.\nB. Macrocystic pancreatic pseudocyst formation is sequestering amylase.\nC. The EDTA anticoagulant in the blood collection tube has interfered with the amylase assay.\nD. A rare genetic variant is causing congenital amylase deficiency.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 2,
+    "k_hop": 1,
+    "level": null
+  },
+  {
+    "query": "A 58-year-old male presents with a 6-month history of progressive weakness in his lower extremities. He reports difficulty climbing stairs and frequent tripping. Neurological examination reveals diminished ankle reflexes bilaterally, distal muscle atrophy in both legs, and decreased pinprick sensation in a stocking-glove distribution. Electromyography (EMG) shows evidence of axonal loss in peripheral nerves. Further workup reveals proteinuria and a mildly elevated serum creatinine. Cardiac evaluation reveals no structural abnormalities but an echocardiogram shows mild ventricular wall thickening. What is the MOST likely underlying etiology of this patient\u2019s peripheral neuropathy, considering the systemic findings?\nA. Chronic inflammatory demyelinating polyneuropathy (CIDP)\nB. Diabetic neuropathy\nC. Amyloid polyneuropathy type I (ATTRv)\nD. Paraneoplastic syndrome associated with small cell lung cancer\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 2,
+    "k_hop": 1,
+    "level": null
+  },
+  {
+    "query": "A 6-year-old boy is brought to the clinic for evaluation of short stature. He is significantly below the 3rd percentile for height but has a normal weight for his height. Physical examination reveals a small head circumference, a prominent forehead, a depressed nasal bridge, and small genitalia. Laboratory studies reveal normal thyroid function tests, normal growth hormone (GH) levels that paradoxically rise after administration of growth hormone-releasing hormone (GHRH), and elevated serum IGF-1. However, IGFBP-3 levels are disproportionately low for the IGF-1 concentration. The patient's parents report that he has experienced several episodes of jitteriness and diaphoresis, particularly after prolonged fasting, which resolve with administration of oral glucose. Which of the following is the MOST likely underlying mechanism contributing to these episodes of jitteriness and diaphoresis in this patient?\nA. Peripheral insulin resistance due to excess IGF-1.\nB. Increased hepatic gluconeogenesis secondary to elevated GH levels.\nC. Reduced counter-regulatory hormone response to hypoglycemia.\nD. Impaired GH-mediated stimulation of gluconeogenesis in the setting of IGF-1 receptor deficiency.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 3,
+    "k_hop": 1,
+    "level": null
+  },
+  {
+    "query": "A 45-year-old female presents to her primary care physician complaining of chronic, widespread pain, particularly in her trunk, upper arms, and thighs. Physical examination reveals multiple painful, subcutaneous masses that are disproportionate to her body weight. She denies any history of trauma to these areas. She reports significant fatigue and mood disturbances. Which of the following is the MOST likely underlying mechanism contributing to the development of palpable, well-circumscribed nodules in this patient?\nA. Increased secretion of parathyroid hormone leading to calcium deposition within subcutaneous tissue.\nB. Dysregulation of the sympathetic nervous system resulting in localized accumulation of mature adipocytes.\nC. Immune-mediated vasculitis causing inflammation and subsequent nodule formation in affected blood vessels.\nD. Impaired lymphatic drainage leading to localized fluid and protein accumulation, resulting in fibrotic changes.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 1,
+    "k_hop": 2,
+    "level": "3"
+  },
+  {
+    "query": "A 10-month-old male infant presents with failure to thrive, delayed motor development, and an enlarged liver. Initial laboratory findings reveal mild hypertransaminasemia (AST 85 U/L, ALT 92 U/L), a slightly elevated bilirubin (2.0 mg/dL), and a normal ammonia level. Further investigation reveals an elevated level of glycogen in the liver. Dietary modification with reduced fructose and lactose improves the symptoms minimally. What is the *least* likely underlying genetic etiology for this patient's presentation?\nA. Glucose-6-phosphatase deficiency (Type 1a Glycogen Storage Disease)\nB. Phosphorylase kinase deficiency, liver isoform (Glycogen Storage Disease Type 9b)\nC. Galactose-1-phosphate uridyltransferase (GALT) deficiency (Classic Galactosemia)\nD. Fructose-1,6-bisphosphatase deficiency\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 3,
+    "k_hop": 2,
+    "level": "3"
+  },
+  {
+    "query": "A 2-day-old male infant presents with seizures, poor feeding, and hypotonia. Initial workup reveals elevated plasma sulfite, hypouricemia, and low urine uric acid. Urine amino acid analysis is normal. Despite supportive care, the infant's condition continues to deteriorate. Further investigation reveals accumulation of specific acylcarnitines. Which of the following underlying enzymatic deficiencies is most likely contributing to both the initial presentation and the observed acylcarnitine profile?\nA. Propionyl-CoA carboxylase deficiency\nB. Methylmalonyl-CoA mutase deficiency\nC. Sulfite oxidase deficiency\nD. Isovaleryl-CoA dehydrogenase deficiency\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 2,
+    "k_hop": 2,
+    "level": "1"
+  },
+  {
+    "query": "A 32-year-old female with a known history of autoimmune thyroiditis presents to the emergency department after being found unresponsive near a swimming pool. Paramedics report initial bradycardia and shallow respirations at the scene. Upon arrival, she is intubated and mechanically ventilated. Initial arterial blood gas reveals a pH of 7.22, PaCO2 of 28 mmHg, PaO2 of 95 mmHg on FiO2 of 0.5, and HCO3- of 10 mEq/L. Her serum sodium is 128 mEq/L, potassium is 5.8 mEq/L, and glucose is 68 mg/dL. Despite fluid resuscitation, her blood pressure remains persistently low (80/50 mmHg) requiring vasopressor support. Which of the following underlying conditions is MOST likely contributing to the patient's clinical presentation?\nA. Primary pulmonary hypertension exacerbation\nB. Congenital long QT syndrome\nC. Primary aldosteronism\nD. Chronic adrenal insufficiency\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 3,
+    "k_hop": 2,
+    "level": "1"
+  },
+  {
+    "query": "A 58-year-old female with a history of chronic kidney disease (CKD) stage 3 presents to the clinic complaining of diffuse bone pain and muscle weakness. Her labs reveal: Serum Calcium 11.8 mg/dL (Normal: 8.5-10.5 mg/dL), Serum Phosphate 1.9 mg/dL (Normal: 2.5-4.5 mg/dL), Intact PTH 650 pg/mL (Normal: 10-65 pg/mL), and 25-Hydroxyvitamin D is sufficient. Which of the following management strategies is MOST appropriate at this time?\nA. Initiate intravenous bisphosphonate therapy.\nB. Prescribe a high-phosphate diet and oral phosphate supplements.\nC. Start calcitriol therapy after confirming adequate calcium intake.\nD. Schedule a parathyroidectomy.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 2,
+    "k_hop": 2,
+    "level": "2"
+  },
+  {
+    "query": "A full-term male infant is diagnosed with permanent neonatal diabetes mellitus (PNDM) at 2 weeks of age, confirmed by genetic testing to be caused by a heterozygous mutation in the *KCNJ11* gene. He is initially managed with subcutaneous insulin injections. At 4 months of age, he presents with infantile spasms. An EEG confirms hypsarrhythmia. MRI of the brain is ordered. Which of the following MRI findings would MOST strongly suggest a shared underlying etiology contributing to both the PNDM and the infantile spasms?\nA. Bilateral hippocampal sclerosis.\nB. Cerebellar atrophy.\nC. Corpus callosum hypoplasia.\nD. Polymicrogyria in the frontal lobes.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 2,
+    "k_hop": 2,
+    "level": "5"
+  },
+  {
+    "query": "32-year-old female presents with concerns about recent onset insulin resistance, hyperglycemia, and hypertriglyceridemia. On physical exam, she exhibits marked loss of subcutaneous fat in the limbs and trunk, with relative sparing of the face and neck. She also has prominent muscularity, particularly in the upper extremities. Her past medical history is unremarkable. Her family history reveals that her mother developed diabetes and hepatic steatosis in her late 40s. Genetic testing reveals a heterozygous mutation in the *LMNA* gene. Which of the following represents the MOST LIKELY long-term complication for this patient that her child would also be at higher risk of experiencing?\nA. Cardiomyopathy with conduction defects\nB. Progressive symmetrical lipoatrophy of the face and neck\nC. Nephrotic syndrome secondary to focal segmental glomerulosclerosis (FSGS)\nD. Increased susceptibility to opportunistic infections due to T-cell dysfunction\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 0,
+    "k_hop": 2,
+    "level": "3"
+  },
+  {
+    "query": "A 3-day-old neonate presents with poor feeding, lethargy, and hypotonia. Initial laboratory findings reveal elevated plasma ammonia (800 \u03bcmol/L, normal <50 \u03bcmol/L), normal anion gap metabolic acidosis, and elevated urine orotic acid. Further investigations show significantly decreased levels of free carnitine and markedly elevated long-chain acylcarnitines in plasma. Which of the following underlying metabolic defects is MOST likely contributing to the hyperammonemia in this patient?\nA. Ornithine transcarbamylase deficiency\nB. Argininosuccinate lyase deficiency\nC. Methylmalonic acidemia\nD. Carnitine-acylcarnitine translocase (CACT) deficiency\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 1,
+    "k_hop": 2,
+    "level": "5"
+  },
+  {
+    "query": "A 28-year-old woman presents for evaluation of progressively worsening exertional dyspnea and chest pain. Her mother had a history of hearing loss and adult-onset diabetes. The patient's echocardiogram reveals asymmetric left ventricular hypertrophy with systolic anterior motion of the mitral valve. Genetic testing reveals a mutation in a mitochondrial DNA gene associated with maternally inherited diabetes and deafness. Which of the following is the *most likely* underlying cause of this patient's cardiac findings?\nA. Amyloid infiltration due to chronic hyperglycemia\nB. Myocardial fibrosis secondary to longstanding microvascular disease\nC. Direct mitochondrial dysfunction affecting cardiac myocyte energy production\nD. Concomitant inherited sarcomeric mutation independent of the mitochondrial disorder\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 2,
+    "k_hop": 2,
+    "level": "1"
+  },
+  {
+    "query": "A 14-year-old male presents with steatorrhea, progressive ataxia, and pigmentary retinopathy. His lipid panel reveals significantly low levels of total cholesterol, LDL-cholesterol, and triglycerides. A liver biopsy is unremarkable for steatosis. Neurological examination reveals diminished proprioception and vibratory sensation. Further investigation rules out cystic fibrosis and celiac disease as potential causes of his malabsorption. Based on these findings, which of the following metabolic abnormalities is MOST likely contributing to the clinical presentation?\nA. Increased hepatic synthesis of VLDL.\nB. Impaired chylomicron formation and VLDL assembly.\nC. Accelerated lipoprotein lipase activity.\nD. Enhanced bile acid synthesis.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 1,
+    "k_hop": 2,
+    "level": "1"
+  },
+  {
+    "query": "A 15-year-old male presents with a history of intellectual disability and progressively worsening spastic paraplegia over the past 5 years. Neurological examination reveals brisk reflexes, clonus at both ankles, and bilateral Babinski signs. He also exhibits microcephaly, dysmorphic facial features including a prominent forehead and hypertelorism, and skeletal abnormalities including mild scoliosis. Initial investigations reveal normal karyotype and negative fragile X testing. Brain MRI reveals thinning of the corpus callosum and periventricular white matter changes. Further metabolic screening reveals elevated levels of DHEA and androstenedione with normal cortisol levels. Which of the following is the MOST likely underlying genetic etiology contributing to this patient's presentation?\nA. Mutation in the MECP2 gene.\nB. Mutation in the ABCD1 gene.\nC. Deficiency in 17-beta-hydroxysteroid dehydrogenase type 10 (HSD17B10).\nD. Mutation in the FMR1 gene.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 2,
+    "k_hop": 2,
+    "level": "1"
+  },
+  {
+    "query": "A 23-year-old male presents to the clinic with a chief complaint of persistent abdominal pain and frequent, bulky, foul-smelling stools. Further questioning reveals that he has also been experiencing increased thirst and frequent urination for the past year. Physical examination is unremarkable except for mild epigastric tenderness. Lab results show elevated fasting blood glucose, decreased fecal elastase-1 levels, and normal levels of serum amylase and lipase. A CT scan of the abdomen shows mild pancreatic atrophy. Renal ultrasound reveals multiple small cysts bilaterally. Genetic testing is considered. Given these findings, which of the following single gene mutations is the MOST likely underlying cause of this patient's constellation of symptoms?\nA. GCK\nB. HNF1A\nC. RFX6\nD. PAX8\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 2,
+    "k_hop": 2,
+    "level": "2"
+  },
+  {
+    "query": "A 28-year-old G1P0 woman is diagnosed with gestational diabetes mellitus (GDM) at 26 weeks gestation based on a 2-hour oral glucose tolerance test. Her HbA1c at the initial prenatal visit was 5.3%. Ultrasound at 20 weeks showed no fetal anomalies. However, a follow-up ultrasound at 28 weeks reveals subtle facial dysmorphism including microcephaly and hypotelorism in the fetus. The amniotic fluid volume is normal. Karyotype performed on amniotic fluid shows a normal 46, XX result. Given these findings, which of the following is the MOST appropriate next step in evaluating the fetal condition, considering its potential association with the development of gestational diabetes?\nA. Perform fetal echocardiography to evaluate for potential cardiac anomalies associated with GDM.\nB. Obtain maternal serum and amniotic fluid for cholesterol analysis and assess for increased levels of 7-dehydrocholesterol.\nC. Increase insulin dosage to aggressively target fasting glucose levels below 90 mg/dL to mitigate potential long-term fetal complications of GDM.\nD. Recommend immediate delivery due to the possibility of late-onset fetal growth restriction related to uncontrolled GDM and potential associated developmental abnormalities.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 1,
+    "k_hop": 2,
+    "level": "1"
+  },
+  {
+    "query": "A 3-month-old infant presents with lethargy, poor feeding, and a distinctive \"sweaty feet\" odor. Initial metabolic screening reveals elevated levels of isovaleric acid and glycine. The infant's mother reports a similar presentation, though less severe, in herself during periods of prolonged fasting. Further investigation reveals mildly elevated levels of malonic acid in both the infant and mother. A deficiency in which of the following enzymatic activities is most likely contributing to BOTH the infant's and the mother's clinical presentations?\nA. Isovaleryl-CoA dehydrogenase\nB. Propionyl-CoA carboxylase\nC. Malonyl-CoA decarboxylase\nD. Methylmalonyl-CoA mutase\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 2,
+    "k_hop": 2,
+    "level": "5"
+  },
+  {
+    "query": "A 17-year-old female presents to the clinic with complaints of fatigue, cold intolerance, and amenorrhea for the past 6 months. Physical examination reveals a BMI of 16 kg/m\u00b2, lanugo hair, and diffuse yellowing of the skin, most prominent on the palms and soles. Her dietary recall is limited, consisting mainly of carrots and sweet potatoes. Laboratory testing reveals normal thyroid function tests, liver function tests, and serum vitamin A levels. Which of the following is the MOST likely explanation for her clinical presentation?\nA. Conversion of beta-carotene to retinol in the skin leading to a vitamin A storage disease\nB. Impaired hepatic metabolism of beta-carotene due to chronic liver disease\nC. Elevated serum beta-carotene secondary to underlying hypothyroidism, impeding carotene clearance.\nD. Excessive dietary beta-carotene intake in the setting of anorexia nervosa\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 3,
+    "k_hop": 2,
+    "level": "1"
+  },
+  {
+    "query": "A previously healthy 18-month-old male presents to the emergency department with lethargy, vomiting, and Kussmaul breathing. His parents report that he has been refusing to eat for the past 24 hours and has had three episodes of non-bilious vomiting. On examination, he is dehydrated and has a fruity odor on his breath. Initial laboratory findings reveal a serum pH of 7.18, bicarbonate level of 8 mEq/L, glucose of 110 mg/dL, and elevated serum ketones. Anion gap is significantly elevated. Further investigation reveals significantly elevated C5-OH acylcarnitine levels and urine organic acid analysis is pending. Which of the following electrolyte abnormalities is MOST likely contributing to the patient's clinical presentation?\nA. Hypokalemia\nB. Hyponatremia\nC. Hypercalcemia\nD. Hyperphosphatemia\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 3,
+    "k_hop": 2,
+    "level": "2"
+  },
+  {
+    "query": "A 62-year-old male with a history of end-stage renal disease (ESRD) on hemodialysis presents to the clinic with new onset muscle weakness, bone pain, and paresthesias. His laboratory results reveal the following: Calcium 9.8 mg/dL (Normal: 8.5-10.5 mg/dL), Phosphorus 1.8 mg/dL (Normal: 2.5-4.5 mg/dL), PTH 950 pg/mL (Normal: 10-65 pg/mL), Albumin 4.0 g/dL. He reports being compliant with his current medication regimen, which includes sevelamer and calcitriol. Considering the patient's presentation and lab findings, which of the following medication changes is MOST likely to exacerbate his hypophosphatemia?\nA. Discontinuing sevelamer and initiating lanthanum carbonate.\nB. Increasing the calcitriol dose.\nC. Initiating cinacalcet.\nD. Initiating a bolus of intravenous immunoglobulin (IVIG) for suspected underlying neuropathy.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 2,
+    "k_hop": 3,
+    "level": "3"
+  },
+  {
+    "query": "A 48-year-old male presents to the clinic for a routine physical. He reports no significant medical history and is currently asymptomatic. Family history is significant for premature coronary artery disease in his father (age 52) and brother (age 55). His lipid panel reveals the following: Total cholesterol 240 mg/dL, Triglycerides 180 mg/dL, LDL-C 160 mg/dL, and HDL-C 28 mg/dL. Physical exam is unremarkable. Considering the patient\u2019s lipid profile and family history, which of the following underlying genetic abnormalities is most likely to contribute to his increased risk of developing accelerated atherosclerosis, even if his LDL-C is aggressively managed with statin therapy?\nA. Loss-of-function mutation in the LDL receptor gene.\nB. Gain-of-function mutation in the PCSK9 gene.\nC. Heterozygous mutation in the APOA1 gene.\nD. Homozygous mutation in the ABCA1 gene.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 2,
+    "k_hop": 3,
+    "level": "4"
+  },
+  {
+    "query": "A 68-year-old male with a 20-year history of poorly controlled type 2 diabetes presents with chronic, burning pain in his feet that is exacerbated by touch. He reports difficulty sleeping due to the pain. Physical examination reveals decreased sensation to light touch and pinprick in a stocking distribution. Radiographs of his foot show subtle bony erosions and joint space narrowing in the midfoot, although the patient denies any significant trauma. He has been trialed on gabapentin with minimal relief. Which of the following topical agents, known for its effect on a specific nociceptive pathway, is MOST likely to provide some symptomatic relief for BOTH the neuropathic pain and the evolving musculoskeletal changes in this patient?\nA. Lidocaine 5% patch\nB. Menthol 10% cream\nC. Capsaicin 0.075% cream\nD. Diclofenac 1% gel\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 2,
+    "k_hop": 3,
+    "level": "1"
+  },
+  {
+    "query": "A 17-year-old male presents to the clinic complaining of progressive blurry vision over the past year, difficulty hearing, and fatigue. Physical examination reveals bilateral cataracts. Laboratory findings include: Serum sodium 128 mEq/L, BUN 45 mg/dL, Creatinine 2.8 mg/dL, Urine analysis shows mild proteinuria and hematuria. Further questioning reveals a family history of kidney disease and hearing loss in his maternal grandfather. Which of the following is the MOST likely underlying pathophysiology contributing to the patient's constellation of findings?\nA. Increased sodium excretion due to thiazide diuretic use, leading to volume contraction and subsequent renal tubular damage.\nB. Chronic tubulointerstitial nephritis leading to sodium wasting, impaired renal concentrating ability, and secondary ocular manifestations.\nC. Syndrome of Inappropriate Antidiuretic Hormone Secretion (SIADH) secondary to small cell lung cancer, causing hyponatremia and increased intraocular pressure.\nD. Renal tubular acidosis type 2 leading to impaired sodium reabsorption, hypokalemia, and secondary cataracts formation due to electrolyte imbalances.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 1,
+    "k_hop": 3,
+    "level": "2"
+  },
+  {
+    "query": "A 17-year-old female with a history of anorexia nervosa is admitted to the hospital for severe malnutrition. Initial laboratory findings reveal significant electrolyte imbalances, including hypokalemia and hypophosphatemia, and a BMI of 14. During nutritional rehabilitation, the patient reports persistent cravings for sweet foods despite adequate caloric intake via enteral nutrition. Her medical team is considering strategies to manage these cravings without exacerbating metabolic abnormalities or hindering her recovery. Which of the following approaches is MOST appropriate in this clinical scenario?\nA. Initiate a bolus of concentrated dextrose solution with each enteral feed to rapidly satisfy cravings and improve patient compliance.\nB. Implement a scheduled dose of a non-nutritive sweetener known to have minimal impact on blood glucose or insulin secretion.\nC. Prescribe a high-dose insulin infusion alongside enteral feeds to counteract the anticipated hyperglycemia resulting from sweet cravings.\nD. Introduce a gradual increase in complex carbohydrates through oral intake, while concurrently reducing the enteral feed rate to compensate for the additional calories.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 1,
+    "k_hop": 3,
+    "level": "1"
+  },
+  {
+    "query": "A previously healthy 18-year-old male presents with a 6-month history of progressive ataxia, dysarthria, and lower extremity weakness. Neurological examination reveals nystagmus and intention tremor. Extensive workup, including MRI of the brain and spinal cord, CSF analysis, and antibody panels for common autoimmune etiologies, is unremarkable. He now develops persistent fevers reaching 102\u00b0F (38.9\u00b0C) despite broad-spectrum antibiotics and negative infectious workup. The patient denies any rash, joint pain, or other systemic symptoms. Muscle biopsy reveals ragged red fibers and COX-negative fibers. Which of the following is the MOST appropriate next step in evaluating the etiology of his pyrexia of unknown origin?\nA. Empirical trial of high-dose corticosteroids.\nB. Genetic testing for mitochondrial DNA mutations.\nC. Repeat autoimmune antibody panel, focusing on less common autoantibodies (e.g., anti-Ro/SSA, anti-La/SSB).\nD. Bone marrow biopsy to rule out hematologic malignancy.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 1,
+    "k_hop": 3,
+    "level": "1"
+  },
+  {
+    "query": "A 58-year-old male with a history of coronary artery disease and stable angina presents for a routine follow-up. He is currently managed with aspirin, metoprolol, and nitroglycerin as needed. His lipid panel reveals the following: LDL-C 165 mg/dL, HDL-C 35 mg/dL, Triglycerides 450 mg/dL. He has been adhering to a low-fat diet and exercising regularly for the past 6 months with minimal improvement in his lipid profile. Given his current medications, cardiovascular risk, and persistent dyslipidemia, which of the following treatment strategies would be MOST appropriate to add?\nA. Increase the dose of metoprolol.\nB. Initiate Niacin.\nC. Initiate Rosuvastatin.\nD. Initiate Ezetimibe.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 2,
+    "k_hop": 3,
+    "level": "1"
+  },
+  {
+    "query": "A 58-year-old woman with a history of chronic kidney disease (CKD) stage 3 presents to the emergency department with progressive lethargy and confusion over the past 3 days. Her serum sodium is 158 mEq/L (normal: 135-145 mEq/L). She denies increased thirst or recent diarrhea. She is currently taking lisinopril, furosemide, and a multivitamin. Initial examination reveals mild peripheral edema. Further workup reveals a serum albumin of 2.1 g/dL (normal: 3.5-5.0 g/dL) and a urine protein/creatinine ratio of 4.2 g/g (normal: <0.2 g/g). After initial stabilization, which of the following underlying mechanisms is MOST likely contributing to her hypernatremia?\nA. Insensible water loss exacerbated by furosemide-induced free water clearance.\nB. Hypothalamic dysfunction leading to impaired thirst mechanism.\nC. An acquired defect in renal sodium handling with increased free water excretion.\nD. Increased production of anti-diuretic hormone (ADH) due to hypovolemia causing the hypernatremia.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 2,
+    "k_hop": 3,
+    "level": "2"
+  },
+  {
+    "query": "A 28-year-old woman presents with progressive bilateral sensorineural hearing loss and insulin-dependent diabetes mellitus diagnosed at age 20. She also reports intermittent episodes of muscle weakness, fatigue, and ataxia, particularly following periods of stress. Neurological examination reveals mild cerebellar dysarthria and limb ataxia. Her mother had a similar constellation of symptoms. Further investigations reveal lactic acidosis and muscle biopsy shows ragged red fibers. Which of the following is the MOST likely underlying biochemical abnormality contributing to this patient's neurological presentation?\nA. Elevated serum pyruvate kinase levels\nB. Decreased activity of complex I of the electron transport chain\nC. Accumulation of long-chain fatty acids in muscle tissue\nD. Impaired glutamate metabolism in the central nervous system\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 1,
+    "k_hop": 3,
+    "level": "1"
+  },
+  {
+    "query": "A 6-month-old male infant presents with progressive muscle weakness, particularly in the limbs and trunk. On examination, he exhibits significant macroglossia, hepatomegaly, and a prominent heart murmur. Echocardiography reveals marked hypertrophic cardiomyopathy. Serum glucose levels are within the normal range during routine checks, but further investigation reveals episodes of documented mild hypoglycemia, particularly after prolonged fasting. Which of the following underlying metabolic disorders is MOST likely contributing to BOTH the cardiomyopathy and the hypoglycemic episodes in this patient?\nA. Glucose-6-phosphatase deficiency (Type Ia Glycogen Storage Disease)\nB. Acid alpha-glucosidase deficiency (Type II Glycogen Storage Disease)\nC. Muscle phosphorylase deficiency (Type V Glycogen Storage Disease)\nD. Carnitine palmitoyltransferase II (CPT II) deficiency\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 1,
+    "k_hop": 3,
+    "level": "2"
+  },
+  {
+    "query": "A 68-year-old male with chronic kidney disease stage 5 on hemodialysis presents for a routine follow-up. He reports increasing fatigue over the past 3 months. His medications include erythropoietin stimulating agent (ESA), calcitriol, and sucroferric oxyhydroxide. Laboratory studies reveal a stable hemoglobin level within the target range for ESA therapy, a normal iron saturation, and a ferritin level of 800 ng/mL. Despite adequate iron stores and ESA response, his fatigue persists. What is the MOST appropriate next step in evaluating this patient's fatigue?\nA. Increase the dose of erythropoietin stimulating agent.\nB. Discontinue sucroferric oxyhydroxide and switch to an alternative phosphate binder.\nC. Order a bone marrow biopsy to rule out myelodysplastic syndrome.\nD. Obtain serum vitamin B12 and methylmalonic acid levels.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 3,
+    "k_hop": 3,
+    "level": "2"
+  },
+  {
+    "query": "A 14-month-old infant from a rural, impoverished region is brought to the clinic. The child presents with severe wasting, marked muscle atrophy, and near-absent subcutaneous fat. Anthropometric measurements reveal weight and height significantly below the 3rd percentile. The mother reports that she has been diluting the infant's formula for several months due to financial constraints. The child is alert but apathetic. Initial laboratory investigations, including a complete blood count and electrolytes, are unremarkable. However, capillary blood glucose, checked due to the severity of the wasting, is surprisingly elevated at 180 mg/dL. What is the MOST likely underlying mechanism contributing to the unexpected hyperglycemia in this patient?\nA. Acute pancreatitis secondary to pancreatic enzyme auto-digestion induced by severe malnutrition.\nB. Decreased insulin sensitivity due to chronic cortisol elevation caused by the severe catabolic state.\nC. Type 1 Diabetes Mellitus unmasked by the stress of malnutrition.\nD. Increased glycogen synthesis in the setting of starvation, overwhelming the liver's capacity for storage.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 1,
+    "k_hop": 3,
+    "level": "1"
+  },
+  {
+    "query": "A 24-year-old male presents with a 6-month history of worsening fatigue, polyuria, and polydipsia. He also reports recent onset of steatorrhea and a 10-pound weight loss despite a normal appetite. His past medical history is significant for multiple renal cysts diagnosed via ultrasound at age 12. His fasting blood glucose is 280 mg/dL, and HbA1c is 11.2%. Stool studies reveal elevated fecal fat. Genetic testing confirms a mutation in the hepatocyte nuclear factor 1 homeobox B (HNF1B) gene. Which of the following is the MOST likely underlying mechanism contributing to the patient's constellation of symptoms?\nA. Autoimmune destruction of pancreatic beta cells and intestinal villi.\nB. Direct tubular damage from the renal cysts leading to glucose wasting and secondary pancreatic insufficiency.\nC. HNF1B-related pancreatic exocrine dysfunction leading to malabsorption and subsequent beta-cell failure due to chronic nutrient deficiency.\nD. Primary defect in intestinal brush border enzymes caused by HNF1B mutation leading to malabsorption and secondary hyperglycemia due to osmotic diuresis and volume depletion.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 2,
+    "k_hop": 3,
+    "level": "1"
+  },
+  {
+    "query": "A 45-year-old male with a history of alcohol abuse is admitted to the intensive care unit after presenting with sudden onset abdominal pain, vomiting, and hypotension. Examination reveals diffuse abdominal tenderness and ascites. Initial labs show elevated amylase and lipase, consistent with acute pancreatitis. He requires aggressive fluid resuscitation. Repeat labs 48 hours later show worsening ascites, peripheral edema, a serum albumin of 2.2 g/dL (normal 3.5-5.0 g/dL), and a slightly elevated serum copper level. Which of the following best explains the elevated serum copper in this patient?\nA. Copper toxicity secondary to pancreatic enzyme supplementation.\nB. Wilson's disease exacerbation triggered by acute illness.\nC. An acute phase reactant elevation due to systemic inflammation.\nD. Renal tubular copper reabsorption due to hypoalbuminemia.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 2,
+    "k_hop": 3,
+    "level": "1"
+  },
+  {
+    "query": "A 28-year-old male with a history of recurrent calcium oxalate nephrolithiasis and stage 3 chronic kidney disease presents with worsening right hip pain over the past 6 months. He denies any trauma. Radiographs reveal a lytic lesion within the femoral neck with associated pathological fracture. Bone biopsy shows evidence of woven bone formation and chondroid matrix, concerning for an enchondroma. Serum calcium and phosphate levels are normal. Parathyroid hormone level is appropriately elevated for the stage of renal disease. What underlying metabolic derangement is MOST likely contributing to the development of his bony lesion?\nA. Vitamin D deficiency due to chronic kidney disease, leading to secondary hyperparathyroidism and bone turnover.\nB. Increased bone turnover secondary to chronic metabolic acidosis associated with renal failure.\nC. Systemic deposition of oxalate crystals secondary to impaired renal clearance, leading to bone damage and altered bone remodeling.\nD. Aluminum toxicity from phosphate binders used in chronic kidney disease management, resulting in osteomalacia and increased fracture risk.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 2,
+    "k_hop": 3,
+    "level": "1"
+  },
+  {
+    "query": "A 58-year-old male with a history of premature coronary artery disease presents for routine lipid panel evaluation. He has been adherent to a healthy diet and regular exercise. His lipid profile is remarkable for a total cholesterol of 110 mg/dL, triglycerides of 90 mg/dL, HDL cholesterol of 55 mg/dL, and LDL cholesterol of 20 mg/dL. He denies any use of lipid-lowering medications. He reports no known allergies and his physical exam is unremarkable. Further investigation reveals normal liver and kidney function. Considering the patient's history and lipid profile, which of the following underlying genetic abnormalities is most likely contributing to this presentation?\nA. Familial Hypercholesterolemia due to an LDL receptor mutation\nB. Apoprotein C-II deficiency\nC. Apoprotein E deficiency\nD. Lipoprotein lipase deficiency\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 2,
+    "k_hop": 3,
+    "level": "1"
+  },
+  {
+    "query": "A 78-year-old male presents to your ophthalmology clinic with worsening central vision in his left eye over the past 6 months. He reports difficulty reading and recognizing faces. Fundus examination reveals drusen and subretinal fluid in the macula of the left eye. Fluorescein angiography confirms the presence of choroidal neovascularization (CNV). Initial treatment with an anti-VEGF agent demonstrates only a partial response after three monthly injections. Which of the following represents the MOST appropriate next step in managing this patient's condition?\nA. Increase the frequency of the current anti-VEGF agent injections to every two weeks.\nB. Switch to a different anti-VEGF agent with a higher binding affinity for VEGF isoforms.\nC. Add intravitreal corticosteroids to the current anti-VEGF regimen.\nD. Initiate photodynamic therapy (PDT) with verteporfin as adjunctive therapy.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 1,
+    "k_hop": 3,
+    "level": "1"
+  },
+  {
+    "query": "A 38-year-old G1P0 woman with a family history significant for several infant siblings dying shortly after birth due to unexplained low blood sugar is referred to you during her 28th week of pregnancy. Ultrasound reveals a fetus measuring in the 10th percentile for gestational age. The mother's glucose tolerance test is normal. Fetal non-stress test is reassuring. Considering the family history and the current fetal status, which of the following genetic mechanisms is MOST likely contributing to the potential adverse outcome?\nA. Maternal uniparental disomy of chromosome 7 resulting in biallelic expression of imprinted growth-inhibiting genes.\nB. A heterozygous activating mutation in the *ABCC8* gene, leading to potassium channel overactivity in pancreatic beta cells.\nC. A homozygous inactivating mutation in the glucokinase (*GCK*) gene, resulting in decreased glucose sensing by pancreatic beta cells.\nD. A heterozygous mutation in the insulin gene (*INS*) leading to misfolded proinsulin and endoplasmic reticulum stress in pancreatic beta cells.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 2,
+    "k_hop": 3,
+    "level": "5"
+  },
+  {
+    "query": "A 6-month-old infant presents with hypotonia, developmental delay, seizures, and a peculiar musty odor. Laboratory findings reveal elevated lactate, pyruvate, alanine, and glutamine levels in the blood. Further metabolic workup demonstrates significantly reduced activity of a key mitochondrial enzyme. Which of the following nutritional interventions is MOST likely to mitigate the infant's symptoms and potentially improve long-term outcomes?\nA. High-dose intravenous glucose administration\nB. Strict dietary restriction of branched-chain amino acids\nC. Oral supplementation with a water-soluble B vitamin\nD. Administration of medium-chain triglycerides (MCTs)\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 2,
+    "k_hop": 3,
+    "level": "5"
+  },
+  {
+    "query": "A 32-year-old female presents with complaints of amenorrhea and spontaneous milky nipple discharge for the past 6 months. She denies taking any medications, including herbal supplements. Physical examination reveals marked lipoatrophy of the extremities and trunk, with relative sparing of subcutaneous fat in the face and neck. She has acanthosis nigricans on her axillae and neck. Initial laboratory findings reveal elevated prolactin levels, normal thyroid stimulating hormone (TSH), and significant insulin resistance despite a normal BMI. Based on the most likely underlying pathophysiology connecting her lipodystrophy and hyperprolactinemia, which of the following is the MOST appropriate next step in management?\nA. Obtain an MRI of the pituitary gland to rule out a prolactinoma.\nB. Prescribe a dopamine agonist to suppress prolactin secretion.\nC. Initiate metformin therapy to improve insulin sensitivity.\nD. Perform genetic testing for mutations associated with familial partial lipodystrophy.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 2,
+    "k_hop": 3,
+    "level": "4"
+  },
+  {
+    "query": "A 14-month-old male presents to the emergency department with lethargy, vomiting, and respiratory distress. His parents report he has been increasingly irritable for the past few days and has had difficulty feeding. On examination, he is hypotonic and has deep, rapid respirations. Initial laboratory findings include: serum sodium 138 mEq/L, potassium 5.8 mEq/L, chloride 98 mEq/L, bicarbonate 12 mEq/L, BUN 45 mg/dL, creatinine 1.8 mg/dL, glucose 85 mg/dL, and serum osmolality 310 mOsm/kg (Normal: 275-295 mOsm/kg). Arterial blood gas reveals pH 7.18, pCO2 18 mmHg, and pO2 95 mmHg. Anion gap is calculated at 28. While awaiting further investigations, which of the following is the MOST likely underlying cause of this patient's presentation that warrants immediate attention?\nA. Diabetic ketoacidosis\nB. Ethylene glycol ingestion\nC. Hyperglycemic hyperosmolar state\nD. Congenital adrenal hyperplasia\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 1,
+    "k_hop": 3,
+    "level": "1"
+  },
+  {
+    "query": "\nA 10-year-old male with a known history of glycogen storage disease presents to the emergency department after an episode of syncope during gym class. Initial glucose measurement reveals a blood glucose of 55 mg/dL. Further investigation reveals mildly elevated liver enzymes and hepatomegaly. He has been otherwise well, adhering to his dietary recommendations of frequent, small, high-carbohydrate meals. He is successfully treated with intravenous dextrose. While considering long-term management strategies, which of the following underlying metabolic disturbances should be most carefully considered in the context of potential therapeutic interventions?\n\nA. Accelerated gluconeogenesis due to increased hepatic pyruvate carboxylase activity.\nB. Impaired glycogenolysis due to a deficiency in phosphorylase kinase activity.\nC. Increased hepatic glucose uptake mediated by GLUT4 translocation.\nD. Reduced peripheral insulin sensitivity leading to decreased glucose utilization.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 1,
+    "k_hop": 4,
+    "level": "1"
+  },
+  {
+    "query": "\nA 62-year-old male with a history of chronic myeloid leukemia (CML) treated with brigatinib presents to the emergency department complaining of new-onset abdominal pain, nausea, and vomiting for the past 24 hours. He reports that his blood sugar has been running \"high\" at home, with readings consistently above 200 mg/dL despite not having a history of diabetes. Physical examination reveals moderate tenderness to palpation in the epigastric region without guarding or rebound. A CT scan of the abdomen reveals a vague fullness in the head of the pancreas, but no definitive mass. Initial amylase and lipase levels are significantly elevated.\n\nWhich of the following is the MOST appropriate next step in management, considering the patient's medication history and clinical presentation?\n\nA. Initiate treatment with metformin for newly diagnosed diabetes mellitus.\nB. Immediately schedule a fine needle aspiration of the pancreatic fullness.\nC. Discontinue brigatinib therapy and initiate broad-spectrum antibiotics for presumed infectious pancreatitis.\nD. Discontinue brigatinib and obtain further imaging with endoscopic ultrasound (EUS) to evaluate the pancreatic fullness, while managing the acute pancreatitis.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 3,
+    "k_hop": 4,
+    "level": "1"
+  },
+  {
+    "query": "\nA 14-month-old infant is brought to your clinic exhibiting severe wasting, growth retardation, and dry, wrinkled skin. Physical examination reveals prominent ribs, loss of subcutaneous fat, and muscle atrophy consistent with Marasmus. The child's mother reports a history of delayed developmental milestones. Further examination reveals a beefy red tongue and velvety, hyperpigmented plaques on the neck and axillae. Which of the following underlying metabolic disturbances is most likely contributing to these findings?\n\nA. Primary hypothyroidism\nB. Congenital adrenal hyperplasia (CAH)\nC. Severe insulin resistance\nD. Hereditary fructose intolerance\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 2,
+    "k_hop": 4,
+    "level": "1"
+  },
+  {
+    "query": "\nA 6-month-old infant presents with intractable seizures that began shortly after birth. Initial investigations, including MRI and metabolic screening, are unremarkable except for elevated lactate levels. The seizures are refractory to standard anti-epileptic medications. High-dose pyridoxine is administered intravenously, resulting in a significant reduction in seizure frequency, but not complete cessation. Despite the improvement, the infant exhibits poor weight gain, mild dermatitis, and thinning hair.\n\nA. Discontinue pyridoxine and initiate a ketogenic diet.\nB. Increase the dose of pyridoxine and add valproic acid.\nC. Maintain pyridoxine and supplement with biotin.\nD. Perform genetic testing for GLUT1 deficiency and consider dietary modification.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 2,
+    "k_hop": 4,
+    "level": "1"
+  },
+  {
+    "query": "\nA 62-year-old male with a 20-year history of poorly controlled type 2 diabetes mellitus presents to the ophthalmology clinic complaining of new-onset, mild, sharp pain in his right eye for the past 3 days. He denies any recent trauma or contact lens use. His visual acuity is 20/40 in the right eye and 20/30 in the left. Fundoscopic examination reveals moderate non-proliferative diabetic retinopathy in both eyes, with macular edema noted in the right eye. He received an intravitreal injection of ranibizumab in the right eye one week prior for the macular edema. Slit-lamp examination reveals mild conjunctival injection in the right eye but is otherwise unremarkable. Intraocular pressure is normal in both eyes.\n\nA. Observation and artificial tears.\nB. Topical antibiotic drops to treat presumed bacterial conjunctivitis.\nC. Cycloplegic drops to alleviate ciliary spasm.\nD. Urgent corneal abrasion evaluation with fluorescein staining.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 3,
+    "k_hop": 4,
+    "level": "1"
+  },
+  {
+    "query": "\nA 10-year-old boy is brought to your clinic by his parents due to concerns about his academic performance. He is falling behind his peers in reading and math, despite adequate instruction and support at school. On physical examination, you note mild short stature (5th percentile), and mild hypotonia. Further questioning reveals a history of recurrent abdominal pain since early childhood, and his growth charts show a flattening of his growth curve around age 2. Lipid panel results show elevated LDL cholesterol. Family history is significant for a father with early-onset coronary artery disease. Genetic testing reveals a mutation in the *APOB* gene. Which of the following is the MOST likely underlying mechanism contributing to the patient\u2019s constellation of findings?\n\nA. Impaired intestinal absorption of fat-soluble vitamins due to lipoprotein assembly defects.\nB. Reduced activity of lysosomal enzymes leading to accumulation of undigested substrates.\nC. Abnormal cholesterol transport across the blood-brain barrier impacting neuronal development.\nD. Mitochondrial dysfunction caused by oxidative stress from abnormal lipid metabolism.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 0,
+    "k_hop": 4,
+    "level": "1"
+  },
+  {
+    "query": "\nA 58-year-old male with a known history of transthyretin (TTR) amyloidosis type II presents to the clinic complaining of increasing fatigue, lightheadedness upon standing, and new-onset distal extremity numbness and pain. Physical examination reveals decreased sensation to pinprick and temperature in a stocking-glove distribution, orthostatic hypotension (25 mmHg drop in systolic blood pressure upon standing), and mild pallor. Hemoglobin is 11.0 g/dL (normal: 13.5-17.5 g/dL), MCV is within normal limits, and reticulocyte count is low. Iron studies, vitamin B12, and folate levels are all within normal limits.\n\nA. Erythropoietin deficiency secondary to chronic kidney disease.\nB. Myelodysplastic syndrome associated with somatic mutations.\nC. Autonomic dysfunction affecting erythropoietin production.\nD. Direct bone marrow infiltration by amyloid fibrils.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 2,
+    "k_hop": 4,
+    "level": "5"
+  },
+  {
+    "query": "\nA 72-year-old woman with a history of chronic kidney disease (CKD) stage 3 and osteoporosis presents for a routine follow-up. She has been managed on denosumab for the past 3 years with stable bone mineral density. Recent lab work reveals a mildly elevated parathyroid hormone (PTH) level and normal calcium and phosphate levels. She reports increasing fatigue and easy bruising, and upon further questioning, admits to significantly restricting her diet in an attempt to manage her CKD, particularly limiting green leafy vegetables. Which of the following interventions would be MOST appropriate at this time?\n\nA. Increase the dose of denosumab to further suppress bone resorption.\nB. Prescribe a calcium supplement containing vitamin D.\nC. Initiate calcitriol supplementation.\nD. Order coagulation studies and assess for vitamin K deficiency.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 3,
+    "k_hop": 5,
+    "level": "1"
+  },
+  {
+    "query": "\nA 3-month-old infant presents with failure to thrive, irritability, and a cabbage-like odor. Laboratory studies reveal significantly elevated levels of plasma tyrosine and methionine. Succinylacetone is also elevated. A liver biopsy shows evidence of hepatocyte necrosis and microvesicular steatosis. Which of the following additional laboratory findings would be MOST consistent with the underlying etiology of this infant's condition?\n\nA. Isolated hyperprolinemia.\nB. Generalized aminoaciduria.\nC. Elevated plasma citrulline.\nD. Decreased urinary orotic acid.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 1,
+    "k_hop": 5,
+    "level": "2"
+  },
+  {
+    "query": "\nA 10-year-old male presents with short stature and characteristic facial features. His parents report normal birth weight and length, but growth velocity has been consistently below the 3rd percentile since infancy. Endocrine evaluation reveals normal growth hormone (GH) levels but significantly reduced levels of insulin-like growth factor 1 (IGF-1). Further workup excludes GH receptor deficiency. His mother notes that he recently developed mild hyperglycemia following a urinary tract infection treated with an oral antibiotic. Which of the following mechanisms best explains this transient hyperglycemic episode in the context of this patient's underlying condition?\n\nA. Increased peripheral insulin resistance secondary to decreased IGF-1 levels.\nB. Direct stimulation of pancreatic beta cells by the antibiotic, leading to insulin hypersecretion and subsequent reactive hyperglycemia.\nC. Inhibition of hepatic gluconeogenesis due to the patient's decreased GH sensitivity.\nD. Competitive inhibition of insulin binding to its receptor by the antibiotic, exacerbating the underlying IGF-1 deficiency.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 0,
+    "k_hop": 5,
+    "level": "3"
+  },
+  {
+    "query": "\nA 62-year-old woman with a history of hypertension and osteoporosis presents to the emergency department with altered mental status and profound weakness. Her family reports increasing confusion and lethargy over the past week. Physical examination reveals dry mucous membranes, decreased skin turgor, and a heart rate of 110 bpm. Initial laboratory findings include: Sodium 155 mEq/L, Potassium 3.2 mEq/L, Chloride 118 mEq/L, Bicarbonate 20 mEq/L, BUN 45 mg/dL, Creatinine 2.0 mg/dL, and corrected Calcium 13.8 mg/dL. Urine specific gravity is 1.005 despite the elevated serum sodium. The patient is currently taking hydrochlorothiazide for hypertension and alendronate for osteoporosis.\n\nWhat is the MOST likely underlying mechanism contributing to this patient's presentation?\n\nA. Thiazide-induced hypokalemia leading to reduced thirst response.\nB. Alendronate-associated renal tubular acidosis impairing concentrating ability.\nC. Primary hyperparathyroidism causing nephrogenic diabetes insipidus.\nD. Hydrochlorothiazide causing direct tubular damage and impaired sodium reabsorption.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 2,
+    "k_hop": 5,
+    "level": "3"
+  },
+  {
+    "query": "\nA 6-month-old male presents with recurrent episodes of lethargy, emesis, and a peculiar \"sweaty feet\" odor noticed during feeding. He has developmental delays, particularly in motor milestones, and ophthalmological examination reveals an unusually wide distance between his eyes. Initial investigations reveal elevated levels of isovaleric acid in his urine. Further metabolic workup is indicated. While awaiting confirmatory results, which of the following underlying metabolic pathways, if significantly disrupted in later stages, is MOST likely to explain the constellation of findings, including the ophthalmic manifestation?\n\nA. Branched-chain amino acid catabolism, leading to accumulation of neurotoxic metabolites.\nB. Cobalamin (Vitamin B12) metabolism, affecting methionine synthase and methylmalonyl-CoA mutase activity.\nC. Purine synthesis, resulting in elevated uric acid levels and neurological dysfunction.\nD. Fatty acid oxidation, causing impaired energy production in the brain and skeletal muscle.\n\nPlease select the correct answer from A, B, C, D. Put your answer in \\boxed{}.\n",
+    "answer": 1,
+    "k_hop": 5,
+    "level": "5"
+  }
+]

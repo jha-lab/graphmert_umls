@@ -1,0 +1,63 @@
+### Input settings ###
+
+input:
+  type: file # or blob
+  file_type: text # or csv
+  base_dir: "input"
+  file_encoding: utf-8
+  file_pattern: ".*\\.txt$$"
+
+chunks:
+  size: 2000
+  overlap: 100
+  group_by_columns: [id]
+
+
+### Output settings ###
+
+cache:
+  type: file 
+  base_dir: "cache"
+
+reporting:
+  type: file 
+  base_dir: "logs"
+
+output:
+  type: file 
+  base_dir: "output"
+
+
+### Query settings ###
+## The prompt locations are required here
+
+local_search:
+  prompt: "prompts/local_search_system_prompt.txt"
+
+
+### LLM settings ###
+## Please ignore, only put here for the GraphRAG code to work
+
+models:
+  default_chat_model:
+    api_key: ${GRAPHRAG_API_KEY} # set this in the .env file
+    type: openai_chat # or azure_openai_chat
+    model: meta-llama/Meta-Llama-3.1-8B-Instruct 
+    model_supports_json: False # recommended if this is available for your model.
+    api_base: https://api.studio.nebius.ai/v1/ 
+  default_embedding_model:
+    api_key: ${GRAPHRAG_API_KEY}
+    type: openai_embedding # or azure_openai_embedding
+    model: nomic-embed-text 
+    api_base: http://localhost:11434/v1
+
+vector_store:
+  default_vector_store:
+    type: lancedb
+    db_uri: output/lancedb
+    container_name: default
+    overwrite: True
+
+embed_text:
+  model_id: default_embedding_model
+  vector_store_id: default_vector_store

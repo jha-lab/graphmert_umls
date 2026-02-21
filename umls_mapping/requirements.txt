@@ -1,0 +1,13 @@
+torch>=2.0.0
+numpy
+pandas
+scikit-learn
+transformers
+datasets
+faiss-cpu
+tqdm
+google-genai
+aiolimiter
+nest_asyncio
+pyyaml
+pyarrow

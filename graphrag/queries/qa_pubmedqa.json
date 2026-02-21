@@ -1,0 +1,126 @@
+[
+    {
+        "query": "Cardiovascular risk in a rural adult West African population: is resting heart rate also relevant?\n\nPlease select the correct answer from 'yes', 'no', and 'maybe'. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "Are even impaired fasting blood glucose levels preoperatively associated with increased mortality after CABG surgery?\n\nPlease select the correct answer from 'yes', 'no', and 'maybe'. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "Convulsions and retinal haemorrhage: should we look further?\n\nPlease select the correct answer from 'yes', 'no', and 'maybe'. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "Does insulin resistance drive the association between hyperglycemia and cardiovascular risk?\n\nPlease select the correct answer from 'yes', 'no', and 'maybe'. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "Autoxidation products of both carbohydrates and lipids are increased in uremic plasma: is there oxidative stress in uremia?\n\nPlease select the correct answer from 'yes', 'no', and 'maybe'. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "The effect of an intracerebroventricular injection of metformin or AICAR on the plasma concentrations of melatonin in the ewe: potential involvement of AMPK?\n\nPlease select the correct answer from 'yes', 'no', and 'maybe'. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "Are increased carotid artery pulsatility and resistance indexes early signs of vascular abnormalities in young obese males?\n\nPlease select the correct answer from 'yes', 'no', and 'maybe'. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "Telemedicine and type 1 diabetes: is technology per se sufficient to improve glycaemic control?\n\nPlease select the correct answer from 'yes', 'no', and 'maybe'. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "High cumulative insulin exposure: a risk factor of atherosclerosis in type 1 diabetes?\n\nPlease select the correct answer from 'yes', 'no', and 'maybe'. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "Transsphenoidal pituitary surgery in Cushing's disease: can we predict outcome?\n\nPlease select the correct answer from 'yes', 'no', and 'maybe'. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "Do symptoms matter when considering patients for phase I clinical trials?\n\nPlease select the correct answer from 'yes', 'no', and 'maybe'. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "Assessing Patient Reported Outcomes Measures via Phone Interviews Versus Patient Self-Survey in the Clinic: Are We Measuring the Same Thing?\n\nPlease select the correct answer from 'yes', 'no', and 'maybe'. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "Starting insulin in type 2 diabetes: continue oral hypoglycemic agents?\n\nPlease select the correct answer from 'yes', 'no', and 'maybe'. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "Recovery Outcome Measures: Is There a Place for Culture, Attitudes, and Faith?\n\nPlease select the correct answer from 'yes', 'no', and 'maybe'. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "Is high-sensitivity C-reactive protein associated with carotid atherosclerosis in healthy Koreans?\n\nPlease select the correct answer from 'yes', 'no', and 'maybe'. Put your answer in \\boxed{}.\n",
+        "answer": 1
+    },
+    {
+        "query": "Does accompanying metabolic syndrome contribute to heart dimensions in hypertensive patients?\n\nPlease select the correct answer from 'yes', 'no', and 'maybe'. Put your answer in \\boxed{}.\n",
+        "answer": 2
+    },
+    {
+        "query": "Is non-HDL-cholesterol a better predictor of long-term outcome in patients after acute myocardial infarction compared to LDL-cholesterol?\n\nPlease select the correct answer from 'yes', 'no', and 'maybe'. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "Production of chemokines by perivascular adipose tissue: a role in the pathogenesis of atherosclerosis?\n\nPlease select the correct answer from 'yes', 'no', and 'maybe'. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "Gadofosveset-enhanced MR angiography of carotid arteries: does steady-state imaging improve accuracy of first-pass imaging?\n\nPlease select the correct answer from 'yes', 'no', and 'maybe'. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "Are complex coronary lesions more frequent in patients with diabetes mellitus?\n\nPlease select the correct answer from 'yes', 'no', and 'maybe'. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "Is the urinary biomarkers assessment a non-invasive approach to tubular lesions of the solitary kidney?\n\nPlease select the correct answer from 'yes', 'no', and 'maybe'. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "Can common carotid intima media thickness serve as an indicator of both cardiovascular phenotype and risk among black Africans?\n\nPlease select the correct answer from 'yes', 'no', and 'maybe'. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "Does psychological distress predict disability?\n\nPlease select the correct answer from 'yes', 'no', and 'maybe'. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "Does ambulatory process of care predict health-related quality of life outcomes for patients with chronic disease?\n\nPlease select the correct answer from 'yes', 'no', and 'maybe'. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "Does perspective-taking increase patient satisfaction in medical encounters?\n\nPlease select the correct answer from 'yes', 'no', and 'maybe'. Put your answer in \\boxed{}.\n",
+        "answer": 2
+    },
+    {
+        "query": "Is there a discrepancy between patient and physician quality of life assessment?\n\nPlease select the correct answer from 'yes', 'no', and 'maybe'. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "Does evidence-based practice improve patient outcomes?\n\nPlease select the correct answer from 'yes', 'no', and 'maybe'. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "The Omega-3 Index: a new risk factor for death from coronary heart disease?\n\nPlease select the correct answer from 'yes', 'no', and 'maybe'. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "Could ADMA levels in young adults born preterm predict an early endothelial dysfunction?\n\nPlease select the correct answer from 'yes', 'no', and 'maybe'. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "Is the first urinary albumin/creatinine ratio (ACR) in women with suspected preeclampsia a prognostic factor for maternal and neonatal adverse outcome?\n\nPlease select the correct answer from 'yes', 'no', and 'maybe'. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    },
+    {
+        "query": "Can autologous platelet-rich plasma gel enhance healing after surgical extraction of mandibular third molars?\n\nPlease select the correct answer from 'yes', 'no', and 'maybe'. Put your answer in \\boxed{}.\n",
+        "answer": 0
+    }
+]

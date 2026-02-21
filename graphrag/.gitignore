@@ -1,0 +1,7 @@
+# Ignore all files with a specific extension
+*.pyc
+*.slurm
+
+# Ignore specific directories (and everything inside them)
+slurm_logs/
+
