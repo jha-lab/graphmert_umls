@@ -1,0 +1,20 @@
+{
+  "_data_files": [
+    {
+      "filename": "data-00000-of-00001.arrow"
+    }
+  ],
+  "_fingerprint": "d5e7d92a2941eaff",
+  "_format_columns": [
+    "head",
+    "id",
+    "input_ids",
+    "predictions",
+    "relation",
+    "tails"
+  ],
+  "_format_kwargs": {},
+  "_format_type": null,
+  "_output_all_columns": false,
+  "_split": null
+}

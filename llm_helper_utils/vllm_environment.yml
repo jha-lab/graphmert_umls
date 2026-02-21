@@ -1,0 +1,7 @@
+name: vllm
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+prefix: /scratch/gpfs/JHA/mb5157/CONDA/envs/vllm

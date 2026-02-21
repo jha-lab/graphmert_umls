@@ -1,0 +1,27 @@
+dataset_path: '/scratch/gpfs/JHA/mb5157/large_data/diabetes_2025_6years/dataset/for_training/qwen32b/350k_abstracts_qwen3-32b_heads_all/'
+output_path: '/scratch/gpfs/JHA/mb5157/large_data/diabetes_2025_6years/dataset/for_training_tmp/relations_test'
+tokenizer_path: '/scratch/gpfs/JHA/mb5157/tokenizers/biomedbert_fast_tokenizer'
+
+# Processing settings
+printout: true
+take_subset: true
+subset_size: 100  # Only used if take_subset is true
+
+# Batch settings
+batch_size: 10000
+num_batches: 10
+original_dataset_size: 989666
+
+# Model settings
+model_id: '/scratch/gpfs/JHA/models/Qwen3-1.7B-FP8'
+model_name: 'qwen3-1.7b'
+tensor_parallel_size: 1
+max_model_len: 8192
+trust_remote_code: false
+
+sampling:
+  temperature: 0.6
+  top_p: 0.95
+  top_k: 20
+  max_tokens: 8192
+  min_p: 0

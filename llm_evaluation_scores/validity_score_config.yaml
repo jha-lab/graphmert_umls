@@ -1,0 +1,28 @@
+# Dataset settings
+predictions_path: '/projects/JHA/shared/dataset/qwen32b/alpha_0.55/span/cleaned_graphs/qwen32b_beta_0.67_deduplicated.csv'
+path_to_save: null  # if null, uses dirname of predictions_path
+
+# Processing settings
+take_subset: true
+subset_size: 500
+sequence_only: true  # if true, use prompt that only looks at sequence; if false, use general knowledge prompt
+
+# Batch settings
+batch_size: 25_000  # samples per model inference pass
+num_batches: 4
+offset: 0
+
+# Model settings
+model_id: '/scratch/gpfs/JHA/models/Qwen3-32B-FP8'
+model_name: 'qwen3-32b'
+tensor_parallel_size: 1
+max_model_len: 8192
+trust_remote_code: false
+
+# Sampling parameters
+sampling:
+  temperature: 0.6
+  top_p: 0.95
+  top_k: 20
+  max_tokens: 8192
+  min_p: 0

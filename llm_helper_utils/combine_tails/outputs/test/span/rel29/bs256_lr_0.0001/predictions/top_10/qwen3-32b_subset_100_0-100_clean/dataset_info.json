@@ -1,0 +1,74 @@
+{
+  "builder_name": "json",
+  "citation": "",
+  "config_name": "default",
+  "dataset_name": "json",
+  "dataset_size": 703207435,
+  "description": "",
+  "download_checksums": {
+    "/scratch/gpfs/JHA/mb5157/large_data/diabetes_2025_6years/dataset/train/train_1_350.json": {
+      "num_bytes": 636816015,
+      "checksum": null
+    },
+    "/scratch/gpfs/JHA/mb5157/large_data/diabetes_2025_6years/dataset/eval/eval_1_39.json": {
+      "num_bytes": 71084956,
+      "checksum": null
+    }
+  },
+  "download_size": 707900971,
+  "features": {
+    "id": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "input_ids": {
+      "feature": {
+        "dtype": "int32",
+        "_type": "Value"
+      },
+      "_type": "List"
+    },
+    "head": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "relation": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "predictions": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "tails": {
+      "feature": {
+        "dtype": "string",
+        "_type": "Value"
+      },
+      "_type": "List"
+    }
+  },
+  "homepage": "",
+  "license": "",
+  "size_in_bytes": 1411108406,
+  "splits": {
+    "train": {
+      "name": "train",
+      "num_bytes": 632592868,
+      "num_examples": 349999,
+      "dataset_name": "json"
+    },
+    "validation": {
+      "name": "validation",
+      "num_bytes": 70614567,
+      "num_examples": 39000,
+      "dataset_name": "json"
+    }
+  },
+  "version": {
+    "version_str": "0.0.0",
+    "major": 0,
+    "minor": 0,
+    "patch": 0
+  }
+}

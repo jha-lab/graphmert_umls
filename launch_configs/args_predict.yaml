@@ -1,0 +1,27 @@
+# Configuration for predict_tails.py
+# Prediction with trained GraphMERT model
+
+# Model and data paths
+model_path: "outputs/test/span/rel29/bs256_lr_0.0001"
+
+relation_map_path: null  # If null, defaults to {model_path}/relation_map.json
+preprocessed_dataset_path: "/scratch/gpfs/JHA/mb5157/large_data/diabetes_2025_6years/dataset/for_training/qwen32b/relations/test_sample_relations_0.55"
+tokenizer_path: "/scratch/gpfs/JHA/mb5157/tokenizers/biomedbert_fast_tokenizer"
+
+# Output settings
+output_dir: null  # If null, defaults to {model_path}/predictions
+top_k: 10  # Number of top tail predictions to return
+chunk_size: 100000  # Save results in chunks of this size
+
+
+batch_size: 128
+# Parallelization
+num_parallel_jobs: 4  # If running multiple jobs, we split the dataset accordingly
+
+# Testing/debugging
+take_subset: false  # Set true to test on small sample
+subset_size: 1000  # only for testing if take_subset is true
+
+# Model architecture parameters (should match trained model)
+num_leaves: 7
+root_nodes: 128

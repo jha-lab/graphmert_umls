@@ -1,0 +1,31 @@
+# Combine Tails Configuration
+
+# Dataset settings
+predictions_path: 'outputs/test/span/rel29/bs256_lr_0.0001/predictions/top_10'
+tokenizer_path: '/scratch/gpfs/JHA/mb5157/tokenizers/biomedbert_fast_tokenizer'
+
+# Processing settings
+take_subset: true
+subset_size: 100
+printout: true
+
+# Batch settings
+batch_size: 1000
+num_batches: 50
+offset: 0
+
+# Model settings
+model_id: '/scratch/gpfs/JHA/models/Qwen3-32B-FP8'
+model_name: 'qwen3-32b'
+tensor_parallel_size: 1
+max_model_len: 8192
+trust_remote_code: false
+enable_thinking: true
+
+# Sampling parameters
+sampling:
+  temperature: 0.6
+  top_p: 0.95
+  top_k: 20
+  max_tokens: 8192
+  min_p: 0

@@ -1,0 +1,108 @@
+config_overrides: 'max_nodes=1024,vocab_size=30522,num_hidden_layers=2,num_attention_heads=2,hidden_size=128,intermediate_size=512,pretrained_emb_dim=0'
+cache_dir: /scratch/gpfs/JHA/mb5157/MLM_DATA_biomedbert/qwen32b_score0.55
+# cache_dir: /scratch/gpfs/JHA/mb5157/MLM_DATA_biomedbert/test
+
+train_file: /scratch/gpfs/JHA/mb5157/large_data/diabetes_2025_6years/dataset/train/train_1_350.json
+validation_file: /scratch/gpfs/JHA/mb5157/large_data/diabetes_2025_6years/dataset/eval/eval_1_39.json
+train_dataset_with_heads: /scratch/gpfs/JHA/mb5157/large_data/diabetes_2025_6years/dataset/for_training/qwen32b/350k_abstracts_qwen3-32b_heads_all
+eval_dataset_with_heads: /scratch/gpfs/JHA/mb5157/large_data/diabetes_2025_6years/dataset/for_training/qwen32b/39k_abstracts_eval_qwen3-32b_heads_all
+tokenized_dataset_output_path: null
+cut_dataset_for_testing: false
+
+injections_train_path: /scratch/gpfs/JHA/mb5157/large_data/diabetes_2025_6years/dataset/for_training/qwen32b/350k_injections_qwen32b_score_0.55.csv
+injections_eval_path: /scratch/gpfs/JHA/mb5157/large_data/diabetes_2025_6years/dataset/for_training/qwen32b/39k_eval_injections_qwen32b_score_0.55.csv
+relation_map_path: /scratch/gpfs/JHA/mb5157/large_data/diabetes_2025_6years/dataset/for_training/qwen32b/relation_map_qwen32b_score_0.55.json
+
+lr_scheduler_kwargs:
+    # only for cosine_with_min_lr scheduler
+    min_lr: !!float 1e-5
+learning_rates: [0.0004, 0.0005]
+# learning_rate: !!float 0.0004
+num_train_epochs: 0.2
+
+# output_dir: outputs/350abstracts/qwen32/score0.55/ablations/seed_kg_size/llm_kg_before_cleaning
+output_dir: outputs/test/
+
+per_device_train_batch_size: 32
+per_device_eval_batch_size: 32
+gradient_accumulation_steps: 2
+warmup_steps: 500
+
+preprocessing_num_workers: 128
+# how many parallel processes DataLoader uses (cpu determined)
+dataloader_num_workers: 6
+
+save_steps: 500
+eval_steps: 500
+logging_steps: 500
+
+# Custom arguments
+num_relationships: 29
+exp_mask_base: 0.6
+
+graph_types:
+    - root_undirected
+    - leaf_undirected
+    - leaf_connected_undirected
+
+relation_emb_dropout: 0.3
+mlm_sbo: true
+mlm_on_leaves_probability: 0.15
+span_upper_length: null
+#mlm_probability: 0.15
+weight_decay: 0.01
+
+max_train_samples: null
+##############################
+tokenizer_name: /scratch/gpfs/JHA/mb5157/tokenizers/biomedbert_fast_tokenizer
+subword_token_start: "##"
+
+# ModelArguments:
+use_auth_token: false
+dropout: 0.1
+attention_dropout: 0.1
+activation_dropout: 0.1
+layerdrop: 0.0
+
+# DataTrainingArguments:
+dataset_name: null
+dataset_config_name: null
+overwrite_cache: false
+validation_split_percentage: 5
+max_seq_length: 128
+log_level: info
+
+# TrainingArguments:
+dataloader_prefetch_factor: null
+#  n_gpu: 1
+#  adafactor: false
+#  adam_beta1: 0.9
+# adam_beta2: 0.999
+#  adam_epsilon: 1e-08
+#  auto_find_batch_size: false
+#  data_seed: null
+seed: 0
+do_predict: false
+do_eval: true
+do_train: true
+bf16: true
+#eval_accumulation_steps: null
+#eval_delay: 0
+evaluation_strategy: steps
+#full_determinism: false
+#gradient_checkpointing: false
+#logging_dir: "test/runs/Oct01_13-56-37_della-gpu.princeton.edu"
+logging_strategy: steps
+
+lr_scheduler_type: cosine_with_min_lr
+
+#max_grad_norm: 1.0
+# optim: "adamw_hf"
+# optim_args: null
+overwrite_output_dir: false
+# prediction_loss_only: false
+resume_from_checkpoint: false
+remove_unused_columns: false
+save_safetensors: false
+save_total_limit: 4
+# warmup_ratio: 0.0

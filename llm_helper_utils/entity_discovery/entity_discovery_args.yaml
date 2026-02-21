@@ -1,0 +1,25 @@
+model:
+  model_id: /scratch/gpfs/JHA/models/Qwen3-32B-FP8
+  model_name: qwen3-32b
+  tokenizer_path: /scratch/gpfs/JHA/mb5157/tokenizers/biomedbert_fast_tokenizer
+  tensor_parallel_size: 1
+  max_model_len: 8192
+  trust_remote_code: false
+  dtype: "auto"
+
+sampling:
+  temperature: 0.6
+  top_p: 0.95
+  top_k: 20
+  max_tokens: 8192
+
+data:
+  dataset_path: /scratch/gpfs/JHA/mb5157/MLM_DATA_biomedbert/test/train_1_350_df37f1bb_tokenized
+  batch_size: 10000
+  num_batches: 10
+  original_dataset_size: 110297
+  take_subset: true
+  subset_size: 500  # Only used if take_subset is true
+  output_path: /scratch/gpfs/JHA/mb5157/large_data/diabetes_2025_6years/entity_discovery_outputs/test_run
+
+printout: true
