@@ -1,6 +1,22 @@
 # GraphMert
 
-This folder contains the main GraphMert model implementation and utilities for training.
+This folder contains the main GraphMert model implementation and utilities for training. 
+
+## Citation
+
+If you use GraphMERT (code, models, or data processing scripts) in your work, please cite our TMLR paper:
+
+```
+@article{
+    belova2026graphmert,
+    title={Graph{MERT}: {E}fficient and Scalable Distillation of Reliable Knowledge Graphs from Unstructured Data},
+    author={Margarita Belova and Jiaxin Xiao and Shikhar Tuli and Niraj Jha},
+    journal={Transactions on Machine Learning Research},
+    issn={2835-8856},
+    year={2026},
+    url={https://openreview.net/forum?id=tnXSdDhvqc},
+}
+```
 
 ## Creating GraphMERT Conda Environment
 
