@@ -268,7 +268,7 @@ def main(yaml_file: str):
     
     tokenized_datasets = DatasetDict()
     tokenized_datasets["train"] = load_from_disk(preprocessing_args.train_dataset_with_heads)
-    tokenized_datasets["validation"] = load_from_disk(preprocessing_args.train_dataset_with_heads)
+    tokenized_datasets["validation"] = load_from_disk(preprocessing_args.eval_dataset_with_heads)
 
     # Code for testing only (reduces dataset size)
     if preprocessing_args.cut_dataset_for_testing:
