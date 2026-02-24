@@ -4,7 +4,7 @@ This folder contains the main GraphMert model implementation and utilities for t
 
 ## Citation
 
-If you use GraphMERT (code, models, or data processing scripts) in your work, please cite our TMLR paper:
+If you use GraphMERT (code, models, data or data processing scripts) in your work, please cite our TMLR paper:
 
 ```
 @article{
@@ -85,6 +85,10 @@ We have three main steps: **tokenization**, **dataset preprocessing**, and **mod
 
 If using slurm, put the running commands in a slurm script `your_slurm_script.slurm` and submit the job using `sbatch your_slurm_script.slurm`.
 
+The datasets used in this project are available on the Hugging Face Hub:
+
+- [GraphMERT PubMED diabetes abstracts](https://huggingface.co/datasets/jha-lab/GraphMERT_data)
+- [Filtered UMLS](https://huggingface.co/datasets/jha-lab/filtered_UMLS)
 
 ---
 ## Environment Variables
