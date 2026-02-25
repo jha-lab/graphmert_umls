@@ -252,7 +252,15 @@ Here are the most important parameters to set before running the MLM training sc
 
 * learning_rate, per_device_train_batch_size, per_device_eval_batch_size, num_train_epochs, logging_steps, save_steps, weight_decay: standard training hyperparameters used in `mlm_utils.py` to configure the training process. Also, if you use slurm and run batch jobs you may set `learning_rates` as list of floats instead of `learning_rate` to use different learning rates for batch jobs in slurm. `len(learning_rates)` should match the number of tasks in the slurm job array.
 
-* `config_overrides`: used in `mlm_utils.py` to modify any of model configuration parameters set in `configuration_graphmert.py` on-the-fly without changing the original config file. Sets model hyperparameters like hidden size, number of layers, attention heads, etc. **You must set transformer parameters so that the model size matches to your data training size.** Check research papers to figure  out which model size is recommended for your training dataset size. For example, for small datasets (e.g., <100k samples), it is recommended to use a smaller model (e.g., 4-6 layers, hidden size 256-512) to prevent overfitting. For larger datasets, you can use a larger model. 
+* `config_overrides`: used in `mlm_utils.py` to modify any of model configuration parameters set in `configuration_graphmert.py` on-the-fly without changing the original config file. Sets model hyperparameters like hidden size, number of layers, attention heads, etc. **You must set transformer parameters so that the model size matches to your data training size.** Check research papers to figure  out which model size is recommended for your training dataset size. For example, for small datasets (e.g., <100k samples), it is recommended to use a smaller model (e.g., 4-6 layers, hidden size 256-512) to prevent overfitting. For larger datasets, you can use a larger model. See `graphmert_model/configuration_graphmert.py` for full list of configuration parameters.
+**Important** you can adjust number of leaves here using max_nodes and root_nodes. Max_nodes must be a power or 2, and root_nodes must be less than max_nodes. Num_leaves is calculated as `max_nodes // root_nodes - 1`. E.g., possible configurations are:
+max_nodes = 1024, root_nodes = 128: 7 leaves per head;
+max_nodes = 2048, root_nodes = 256: 7 leaves per head;
+max_noides = 1024, root_nodes = 256: 3 leaves per head. 
+
+The number of leaves, 3 vs 7, (2^n - 1) depends on the number of tokens in your triple tails. If triple tails in your seed KG fit well into 3 tokens on average, this is fine. If your tails have elaborated long phrases, choose number of leaves equal to 7.
+
+Adjust these parameters based on your dataset size and GPU memory. The higher `root_nodes` is, the longer is your actual traiing sequence and context. High `max_nodes` increases GPU memory usage.
 
 ```
 * `relation_emb_dropout`: used in `graphmert_model/configuration_graphmert.py` to set the dropout rate for relation embeddings. Set higher values (e.g., 0.3-0.5) if semantic vocabulary size is small to prevent overfitting.
